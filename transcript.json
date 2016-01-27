@@ -1,0 +1,7741 @@
+[
+  {
+    "begin": "00:00:00.54",
+    "end": "00:00:01.96",
+    "text": "PROFESSOR: OK so today we're doing"
+  },
+  {
+
+    "begin": "00:00:01.96",
+    "end": "00:00:08.60",
+    "text": "antiderivatives and other uses of the indefinite integrals."
+  },
+  {
+
+    "begin": "00:00:08.60",
+    "end": "00:00:12.29",
+    "text": "Next week we'll be doing the review before the final exam,"
+  },
+  {
+
+    "begin": "00:00:12.29",
+    "end": "00:00:14.16",
+    "text": "and so next we'll go over a bunch of problems"
+  },
+  {
+
+    "begin": "00:00:14.16",
+    "end": "00:00:17.06",
+    "text": "that I've prepared, but also any questions that you have."
+  },
+  {
+
+    "begin": "00:00:17.06",
+    "end": "00:00:20.03",
+    "text": "So if you have questions while you're preparing for the exam"
+  },
+  {
+
+    "begin": "00:00:20.03",
+    "end": "00:00:23.97",
+    "text": "by doing all the practice exams, you can send an email,"
+  },
+  {
+
+    "begin": "00:00:23.97",
+    "end": "00:00:24.86",
+    "text": "let me know."
+  },
+  {
+
+    "begin": "00:00:24.86",
+    "end": "00:00:27.63",
+    "text": "Or you could just bring them to class and we'll do them then."
+  },
+  {
+
+    "begin": "00:00:27.63",
+    "end": "00:00:30.65",
+    "text": "If you have specific topics that you want to cover,"
+  },
+  {
+
+    "begin": "00:00:30.65",
+    "end": "00:00:32.80",
+    "text": "try to send me an email before class"
+  },
+  {
+
+    "begin": "00:00:32.80",
+    "end": "00:00:36.06",
+    "text": "so that I make sure to I prepare a problem for that,"
+  },
+  {
+
+    "begin": "00:00:36.06",
+    "end": "00:00:38.97",
+    "text": "or bring-- I can bring one of the practice exam"
+  },
+  {
+
+    "begin": "00:00:38.97",
+    "end": "00:00:40.15",
+    "text": "problems or whatever."
+  },
+  {
+
+    "begin": "00:00:40.15",
+    "end": "00:00:41.92",
+    "text": "So just let me know what you need,"
+  },
+  {
+
+    "begin": "00:00:41.92",
+    "end": "00:00:45.04",
+    "text": "and we'll do review next week, and we'll hopefully"
+  },
+  {
+
+    "begin": "00:00:45.04",
+    "end": "00:00:47.28",
+    "text": "have a good final exam."
+  },
+  {
+
+    "begin": "00:00:47.28",
+    "end": "00:00:49.25",
+    "text": "But before that, we'll do antiderivatives"
+  },
+  {
+
+    "begin": "00:00:49.25",
+    "end": "00:00:50.90",
+    "text": "and indefinite integrals."
+  },
+  {
+
+    "begin": "00:00:50.90",
+    "end": "00:00:52.53",
+    "text": "And so what is an indefinite integral?"
+  },
+  {
+
+    "begin": "00:00:52.53",
+    "end": "00:00:53.49",
+    "text": "What does it look like?"
+  },
+  {
+
+    "begin": "00:00:53.49",
+    "end": "00:00:56.70",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:00:56.70",
+    "end": "00:00:58.10",
+    "text": "STUDENT: There's no limits."
+  },
+  {
+
+    "begin": "00:00:58.10",
+    "end": "00:01:00.22",
+    "text": "PROFESSOR: So there's no bounds."
+  },
+  {
+
+    "begin": "00:01:00.22",
+    "end": "00:01:06.70",
+    "text": "So if we have like x cubed plus 4x, dx,"
+  },
+  {
+
+    "begin": "00:01:06.70",
+    "end": "00:01:08.62",
+    "text": "what would the answer to this be?"
+  },
+  {
+
+    "begin": "00:01:08.62",
+    "end": "00:01:12.62",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:01:12.62",
+    "end": "00:01:17.12",
+    "text": "STUDENT: X cubed-- x to the 4 over 4."
+  },
+  {
+
+    "begin": "00:01:17.12",
+    "end": "00:01:20.62",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:01:20.62",
+    "end": "00:01:25.86",
+    "text": "plus 2x squared plus c."
+  },
+  {
+
+    "begin": "00:01:25.86",
+    "end": "00:01:28.28",
+    "text": "PROFESSOR: Plus C. OK, and we talked about this last time."
+  },
+  {
+
+    "begin": "00:01:28.28",
+    "end": "00:01:28.85",
+    "text": "What is this?"
+  },
+  {
+
+    "begin": "00:01:28.85",
+    "end": "00:01:29.59",
+    "text": "Why is this here?"
+  },
+  {
+
+    "begin": "00:01:29.59",
+    "end": "00:01:32.12",
+    "text": "Why is this plus c here?"
+  },
+  {
+
+    "begin": "00:01:32.12",
+    "end": "00:01:35.99",
+    "text": "STUDENT: Because you can have infinite number of--"
+  },
+  {
+
+    "begin": "00:01:35.99",
+    "end": "00:01:37.47",
+    "text": "PROFESSOR: Yeah."
+  },
+  {
+
+    "begin": "00:01:37.47",
+    "end": "00:01:40.80",
+    "text": "There's an infinite number of these equations"
+  },
+  {
+
+    "begin": "00:01:40.80",
+    "end": "00:01:45.77",
+    "text": "that the derivative of it is x cubed plus 4 x."
+  },
+  {
+
+    "begin": "00:01:45.77",
+    "end": "00:01:48.87",
+    "text": "OK so we'll do some sketching."
+  },
+  {
+
+    "begin": "00:01:48.87",
+    "end": "00:01:55.03",
+    "text": "So on this side we'll have little f,"
+  },
+  {
+
+    "begin": "00:01:55.03",
+    "end": "00:01:58.96",
+    "text": "which is going to be equal to big f prime."
+  },
+  {
+
+    "begin": "00:01:58.96",
+    "end": "00:02:06.34",
+    "text": "And on this side we'll have big F. OK"
+  },
+  {
+
+    "begin": "00:02:06.34",
+    "end": "00:02:09.12",
+    "text": "so I'm going to draw little f which"
+  },
+  {
+
+    "begin": "00:02:09.12",
+    "end": "00:02:12.89",
+    "text": "is the derivative of big F. So if I make the chart"
+  },
+  {
+
+    "begin": "00:02:12.89",
+    "end": "00:02:19.57",
+    "text": "that we normally have when we're sketching,"
+  },
+  {
+
+    "begin": "00:02:19.57",
+    "end": "00:02:23.05",
+    "text": "so we'll have positive, negative, increasing,"
+  },
+  {
+
+    "begin": "00:02:23.05",
+    "end": "00:02:26.58",
+    "text": "decreasing, concave up, concave down."
+  },
+  {
+
+    "begin": "00:02:26.58",
+    "end": "00:02:28.33",
+    "text": "What goes down here?"
+  },
+  {
+
+    "begin": "00:02:28.33",
+    "end": "00:02:31.07",
+    "text": "Just to quickly refresh."
+  },
+  {
+
+    "begin": "00:02:31.07",
+    "end": "00:02:31.88",
+    "text": "STUDENT: XX."
+  },
+  {
+
+    "begin": "00:02:31.88",
+    "end": "00:02:35.50",
+    "text": "PROFESSOR: XX So we know nothing about positive negative,"
+  },
+  {
+
+    "begin": "00:02:35.50",
+    "end": "00:02:39.13",
+    "text": "plus minus, increasing decreasing."
+  },
+  {
+
+    "begin": "00:02:39.13",
+    "end": "00:02:43.87",
+    "text": "OK so now based on what I've put up here we have big F"
+  },
+  {
+
+    "begin": "00:02:43.87",
+    "end": "00:02:44.76",
+    "text": "and little f."
+  },
+  {
+
+    "begin": "00:02:44.76",
+    "end": "00:02:45.66",
+    "text": "Which one goes where?"
+  },
+  {
+
+    "begin": "00:02:45.66",
+    "end": "00:02:48.78",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:02:48.78",
+    "end": "00:02:51.62",
+    "text": "Little f at the bottom, because little f"
+  },
+  {
+
+    "begin": "00:02:51.62",
+    "end": "00:02:55.77",
+    "text": "is the derivative of big F. So I recommend always"
+  },
+  {
+
+    "begin": "00:02:55.77",
+    "end": "00:02:57.92",
+    "text": "writing this on your paper on the exams."
+  },
+  {
+
+    "begin": "00:02:57.92",
+    "end": "00:02:59.54",
+    "text": "Always writing this chart on your paper"
+  },
+  {
+
+    "begin": "00:02:59.54",
+    "end": "00:03:03.29",
+    "text": "and always using the exact notations"
+  },
+  {
+
+    "begin": "00:03:03.29",
+    "end": "00:03:06.26",
+    "text": "that he's used on these graphs, so that you"
+  },
+  {
+
+    "begin": "00:03:06.26",
+    "end": "00:03:09.00",
+    "text": "know when I give you one of them and you"
+  },
+  {
+
+    "begin": "00:03:09.00",
+    "end": "00:03:12.97",
+    "text": "need to do the other, which part of it is doing what."
+  },
+  {
+
+    "begin": "00:03:12.97",
+    "end": "00:03:15.53",
+    "text": "You'll also see on the exam sometimes, he'll"
+  },
+  {
+
+    "begin": "00:03:15.53",
+    "end": "00:03:17.22",
+    "text": "give you the middle one and you'll"
+  },
+  {
+
+    "begin": "00:03:17.22",
+    "end": "00:03:19.05",
+    "text": "have to do both the antiderivative"
+  },
+  {
+
+    "begin": "00:03:19.05",
+    "end": "00:03:22.04",
+    "text": "and the derivative, does that make sense?"
+  },
+  {
+
+    "begin": "00:03:22.04",
+    "end": "00:03:26.74",
+    "text": "So you'll need to maybe do this chart one line further."
+  },
+  {
+
+    "begin": "00:03:26.74",
+    "end": "00:03:28.71",
+    "text": "But I recommend doing that."
+  },
+  {
+
+    "begin": "00:03:28.71",
+    "end": "00:03:31.82",
+    "text": "OK so our first one will be pretty simple."
+  },
+  {
+
+    "begin": "00:03:31.82",
+    "end": "00:03:34.97",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:03:34.97",
+    "end": "00:03:36.59",
+    "text": "OK so which part are we looking at"
+  },
+  {
+
+    "begin": "00:03:36.59",
+    "end": "00:03:38.36",
+    "text": "to try to figure out what this will--"
+  },
+  {
+
+    "begin": "00:03:38.36",
+    "end": "00:03:40.01",
+    "text": "what the antiderivative will look like?"
+  },
+  {
+
+    "begin": "00:03:40.01",
+    "end": "00:03:44.72",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:03:44.72",
+    "end": "00:03:50.14",
+    "text": "Which section of this matters?"
+  },
+  {
+
+    "begin": "00:03:50.14",
+    "end": "00:03:52.26",
+    "text": "OK so this is positive."
+  },
+  {
+
+    "begin": "00:03:52.26",
+    "end": "00:03:55.78",
+    "text": "OK and is it increasing or decreasing or neither?"
+  },
+  {
+
+    "begin": "00:03:55.78",
+    "end": "00:03:57.46",
+    "text": "Neither, OK."
+  },
+  {
+
+    "begin": "00:03:57.46",
+    "end": "00:04:01.39",
+    "text": "So up here, what do we think this one's going to look like?"
+  },
+  {
+
+    "begin": "00:04:01.39",
+    "end": "00:04:02.22",
+    "text": "STUDENT: Increasing."
+  },
+  {
+
+    "begin": "00:04:02.22",
+    "end": "00:04:04.18",
+    "text": "PROFESSOR: It's going to be an increasing line."
+  },
+  {
+
+    "begin": "00:04:04.18",
+    "end": "00:04:07.39",
+    "text": "Does it matter where it is?"
+  },
+  {
+
+    "begin": "00:04:07.39",
+    "end": "00:04:10.04",
+    "text": "It should be positive?"
+  },
+  {
+
+    "begin": "00:04:10.04",
+    "end": "00:04:12.26",
+    "text": "So it could be positive or negative?"
+  },
+  {
+
+    "begin": "00:04:12.26",
+    "end": "00:04:13.99",
+    "text": "Can it go through?"
+  },
+  {
+
+    "begin": "00:04:13.99",
+    "end": "00:04:14.51",
+    "text": "Sorry?"
+  },
+  {
+
+    "begin": "00:04:14.51",
+    "end": "00:04:15.93",
+    "text": "STUDENT: Slope has to be positive."
+  },
+  {
+
+    "begin": "00:04:15.93",
+    "end": "00:04:17.11",
+    "text": "PROFESSOR: Slope has to be positive."
+  },
+  {
+
+    "begin": "00:04:17.11",
+    "end": "00:04:17.67",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:04:17.67",
+    "end": "00:04:20.15",
+    "text": "So if I draw this line, does that work?"
+  },
+  {
+
+    "begin": "00:04:20.15",
+    "end": "00:04:20.65",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:04:20.65",
+    "end": "00:04:22.68",
+    "text": "Because the slope is constantly positive."
+  },
+  {
+
+    "begin": "00:04:22.68",
+    "end": "00:04:23.72",
+    "text": "And it's a constant."
+  },
+  {
+
+    "begin": "00:04:23.72",
+    "end": "00:04:24.66",
+    "text": "It's a constant slope."
+  },
+  {
+
+    "begin": "00:04:24.66",
+    "end": "00:04:25.85",
+    "text": "I didn't draw a curve."
+  },
+  {
+
+    "begin": "00:04:25.85",
+    "end": "00:04:27.86",
+    "text": "I drew a line with a constant slope,"
+  },
+  {
+
+    "begin": "00:04:27.86",
+    "end": "00:04:29.81",
+    "text": "and this is what you would do."
+  },
+  {
+
+    "begin": "00:04:29.81",
+    "end": "00:04:31.60",
+    "text": "This is-- if I took the derivative of this,"
+  },
+  {
+
+    "begin": "00:04:31.60",
+    "end": "00:04:33.73",
+    "text": "I drew the derivative, I would get this line."
+  },
+  {
+
+    "begin": "00:04:33.73",
+    "end": "00:04:34.23",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:04:34.23",
+    "end": "00:04:36.43",
+    "text": "What's another line that would look like this?"
+  },
+  {
+
+    "begin": "00:04:36.43",
+    "end": "00:04:39.29",
+    "text": "Another antiderivative."
+  },
+  {
+
+    "begin": "00:04:39.29",
+    "end": "00:04:41.56",
+    "text": "STUDENT: Shift it up or down."
+  },
+  {
+
+    "begin": "00:04:41.56",
+    "end": "00:04:43.83",
+    "text": "PROFESSOR: So we could have all of these, right?"
+  },
+  {
+
+    "begin": "00:04:43.83",
+    "end": "00:04:44.84",
+    "text": "All of those work."
+  },
+  {
+
+    "begin": "00:04:44.84",
+    "end": "00:04:47.99",
+    "text": "Infinitely many, up and down the graph."
+  },
+  {
+
+    "begin": "00:04:47.99",
+    "end": "00:04:48.88",
+    "text": "Great."
+  },
+  {
+
+    "begin": "00:04:48.88",
+    "end": "00:04:51.99",
+    "text": "Any questions about that?"
+  },
+  {
+
+    "begin": "00:04:51.99",
+    "end": "00:04:54.40",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:04:54.40",
+    "end": "00:04:57.67",
+    "text": "So we'll do another one."
+  },
+  {
+
+    "begin": "00:04:57.67",
+    "end": "00:05:03.17",
+    "text": "These are supposed to get increasingly difficult."
+  },
+  {
+
+    "begin": "00:05:03.17",
+    "end": "00:05:11.28",
+    "text": "OK so this time we have this line that"
+  },
+  {
+
+    "begin": "00:05:11.28",
+    "end": "00:05:13.67",
+    "text": "crosses the x-axis there."
+  },
+  {
+
+    "begin": "00:05:13.67",
+    "end": "00:05:16.61",
+    "text": "So I'm going to put a little dash there to know that maybe"
+  },
+  {
+
+    "begin": "00:05:16.61",
+    "end": "00:05:19.43",
+    "text": "something happens or maybe it doesn't."
+  },
+  {
+
+    "begin": "00:05:19.43",
+    "end": "00:05:28.44",
+    "text": "OK so from this point to this point, what can you"
+  },
+  {
+
+    "begin": "00:05:28.44",
+    "end": "00:05:32.06",
+    "text": "tell me about this function?"
+  },
+  {
+
+    "begin": "00:05:32.06",
+    "end": "00:05:33.02",
+    "text": "STUDENT: It's constant."
+  },
+  {
+
+    "begin": "00:05:33.02",
+    "end": "00:05:34.06",
+    "text": "PROFESSOR: It's constant."
+  },
+  {
+
+    "begin": "00:05:34.06",
+    "end": "00:05:36.17",
+    "text": "The slope of this constant."
+  },
+  {
+
+    "begin": "00:05:36.17",
+    "end": "00:05:37.25",
+    "text": "Does that matter?"
+  },
+  {
+
+    "begin": "00:05:37.25",
+    "end": "00:05:37.91",
+    "text": "No."
+  },
+  {
+
+    "begin": "00:05:37.91",
+    "end": "00:05:39.83",
+    "text": "Because I'm not taking the derivative of this."
+  },
+  {
+
+    "begin": "00:05:39.83",
+    "end": "00:05:42.69",
+    "text": "The slope of this doesn't matter."
+  },
+  {
+
+    "begin": "00:05:42.69",
+    "end": "00:05:44.32",
+    "text": "It's positive."
+  },
+  {
+
+    "begin": "00:05:44.32",
+    "end": "00:05:46.30",
+    "text": "And what else?"
+  },
+  {
+
+    "begin": "00:05:46.30",
+    "end": "00:05:47.54",
+    "text": "Decreasing."
+  },
+  {
+
+    "begin": "00:05:47.54",
+    "end": "00:05:51.16",
+    "text": "OK so positive and decreasing means that from this point"
+  },
+  {
+
+    "begin": "00:05:51.16",
+    "end": "00:05:53.22",
+    "text": "here to this point, what's going to happen"
+  },
+  {
+
+    "begin": "00:05:53.22",
+    "end": "00:05:56.14",
+    "text": "to this graph, the antiderivative?"
+  },
+  {
+
+    "begin": "00:05:56.14",
+    "end": "00:05:58.37",
+    "text": "STUDENT: Increasing concave down."
+  },
+  {
+
+    "begin": "00:05:58.37",
+    "end": "00:05:59.29",
+    "text": "PROFESSOR: Increasing."
+  },
+  {
+
+    "begin": "00:05:59.29",
+    "end": "00:06:02.35",
+    "text": "So we got positive increasing, and then we"
+  },
+  {
+
+    "begin": "00:06:02.35",
+    "end": "00:06:05.98",
+    "text": "had decreasing concave down."
+  },
+  {
+
+    "begin": "00:06:05.98",
+    "end": "00:06:07.44",
+    "text": "OK, so what will it look like?"
+  },
+  {
+
+    "begin": "00:06:07.44",
+    "end": "00:06:12.61",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:06:12.61",
+    "end": "00:06:16.90",
+    "text": "STUDENT: So it would be like [INAUDIBLE] half,"
+  },
+  {
+
+    "begin": "00:06:16.90",
+    "end": "00:06:20.27",
+    "text": "half [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:06:20.27",
+    "end": "00:06:24.31",
+    "text": "PROFESSOR: So that the slope is what at this point?"
+  },
+  {
+
+    "begin": "00:06:24.31",
+    "end": "00:06:25.70",
+    "text": "STUDENT: Should be 0."
+  },
+  {
+
+    "begin": "00:06:25.70",
+    "end": "00:06:27.91",
+    "text": "PROFESSOR: Yeah, the slope should be 0 at this point,"
+  },
+  {
+
+    "begin": "00:06:27.91",
+    "end": "00:06:28.56",
+    "text": "right?"
+  },
+  {
+
+    "begin": "00:06:28.56",
+    "end": "00:06:33.61",
+    "text": "Because over here, the slope-- this value is 0."
+  },
+  {
+
+    "begin": "00:06:33.61",
+    "end": "00:06:37.16",
+    "text": "So if I take the derivative of this, this curve, and the value"
+  },
+  {
+
+    "begin": "00:06:37.16",
+    "end": "00:06:42.99",
+    "text": "is 0 here, we'll have the peak of our parabola,"
+  },
+  {
+
+    "begin": "00:06:42.99",
+    "end": "00:06:44.22",
+    "text": "or of our curve."
+  },
+  {
+
+    "begin": "00:06:44.22",
+    "end": "00:06:44.72",
+    "text": "OK?"
+  },
+  {
+
+    "begin": "00:06:44.72",
+    "end": "00:06:49.81",
+    "text": "And so then what happens from this point to the end?"
+  },
+  {
+
+    "begin": "00:06:49.81",
+    "end": "00:06:50.81",
+    "text": "STUDENT: It's negative."
+  },
+  {
+
+    "begin": "00:06:50.81",
+    "end": "00:06:52.23",
+    "text": "STUDENT: Decreasing, concave down."
+  },
+  {
+
+    "begin": "00:06:52.23",
+    "end": "00:06:54.08",
+    "text": "PROFESSOR: Negative, decreasing."
+  },
+  {
+
+    "begin": "00:06:54.08",
+    "end": "00:06:58.07",
+    "text": "So our antiderivative is what?"
+  },
+  {
+
+    "begin": "00:06:58.07",
+    "end": "00:06:59.98",
+    "text": "Decreasing and concave down?"
+  },
+  {
+
+    "begin": "00:06:59.98",
+    "end": "00:07:00.69",
+    "text": "STUDENT: Yep."
+  },
+  {
+
+    "begin": "00:07:00.69",
+    "end": "00:07:02.76",
+    "text": "PROFESSOR: OK, so there was no inflection point, right?"
+  },
+  {
+
+    "begin": "00:07:02.76",
+    "end": "00:07:04.34",
+    "text": "It stayed concave down the whole time."
+  },
+  {
+
+    "begin": "00:07:04.34",
+    "end": "00:07:06.92",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:07:06.92",
+    "end": "00:07:08.02",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:07:08.02",
+    "end": "00:07:09.98",
+    "text": "Does everyone agree?"
+  },
+  {
+
+    "begin": "00:07:09.98",
+    "end": "00:07:13.51",
+    "text": "All right, so what would another one look like?"
+  },
+  {
+
+    "begin": "00:07:13.51",
+    "end": "00:07:14.86",
+    "text": "STUDENT: Shift it up or down."
+  },
+  {
+
+    "begin": "00:07:14.86",
+    "end": "00:07:17.58",
+    "text": "PROFESSOR: Shift it up or down."
+  },
+  {
+
+    "begin": "00:07:17.58",
+    "end": "00:07:19.67",
+    "text": "That was actually pretty close, but the 0"
+  },
+  {
+
+    "begin": "00:07:19.67",
+    "end": "00:07:20.67",
+    "text": "is supposed to be there."
+  },
+  {
+
+    "begin": "00:07:20.67",
+    "end": "00:07:23.61",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:07:23.61",
+    "end": "00:07:26.97",
+    "text": "It'd be here, OK?"
+  },
+  {
+
+    "begin": "00:07:26.97",
+    "end": "00:07:29.00",
+    "text": "Questions on that?"
+  },
+  {
+
+    "begin": "00:07:29.00",
+    "end": "00:07:31.22",
+    "text": "OK, these are pretty easy?"
+  },
+  {
+
+    "begin": "00:07:31.22",
+    "end": "00:07:31.72",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:07:31.72",
+    "end": "00:07:38.41",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:07:38.41",
+    "end": "00:07:40.62",
+    "text": "So these probably are pretty easy because we did them"
+  },
+  {
+
+    "begin": "00:07:40.62",
+    "end": "00:07:42.81",
+    "text": "the other way so many times."
+  },
+  {
+
+    "begin": "00:07:42.81",
+    "end": "00:07:47.27",
+    "text": "We took the original and made the derivative so many times."
+  },
+  {
+
+    "begin": "00:07:47.27",
+    "end": "00:07:49.31",
+    "text": "But that also means that when you're on the exam,"
+  },
+  {
+
+    "begin": "00:07:49.31",
+    "end": "00:07:51.31",
+    "text": "you really need to be careful about whether it's"
+  },
+  {
+
+    "begin": "00:07:51.31",
+    "end": "00:07:54.82",
+    "text": "asking for the derivative or for the antiderivative,"
+  },
+  {
+
+    "begin": "00:07:54.82",
+    "end": "00:07:56.73",
+    "text": "because if you're not reading carefully"
+  },
+  {
+
+    "begin": "00:07:56.73",
+    "end": "00:07:59.21",
+    "text": "you might do the wrong one."
+  },
+  {
+
+    "begin": "00:07:59.21",
+    "end": "00:08:01.59",
+    "text": "Let's do this one."
+  },
+  {
+
+    "begin": "00:08:01.59",
+    "end": "00:08:04.22",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:08:04.22",
+    "end": "00:08:08.04",
+    "text": "So from here to here, what's happening?"
+  },
+  {
+
+    "begin": "00:08:08.04",
+    "end": "00:08:10.60",
+    "text": "STUDENT: It's positive going down."
+  },
+  {
+
+    "begin": "00:08:10.60",
+    "end": "00:08:12.43",
+    "text": "PROFESSOR: OK, so this is like the last one."
+  },
+  {
+
+    "begin": "00:08:12.43",
+    "end": "00:08:17.06",
+    "text": "And what happens at this point on our antiderivative?"
+  },
+  {
+
+    "begin": "00:08:17.06",
+    "end": "00:08:19.69",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:08:19.69",
+    "end": "00:08:20.87",
+    "text": "STUDENT: The tangent is 0."
+  },
+  {
+
+    "begin": "00:08:20.87",
+    "end": "00:08:22.04",
+    "text": "PROFESSOR: The tangent is 0."
+  },
+  {
+
+    "begin": "00:08:22.04",
+    "end": "00:08:25.84",
+    "text": "OK, so where should I start on here"
+  },
+  {
+
+    "begin": "00:08:25.84",
+    "end": "00:08:28.28",
+    "text": "and what should it look like?"
+  },
+  {
+
+    "begin": "00:08:28.28",
+    "end": "00:08:32.80",
+    "text": "It's going to be increasing and concave down."
+  },
+  {
+
+    "begin": "00:08:32.80",
+    "end": "00:08:33.72",
+    "text": "STUDENT: Concave down."
+  },
+  {
+
+    "begin": "00:08:33.72",
+    "end": "00:08:34.51",
+    "text": "PROFESSOR: OK, so--"
+  },
+  {
+
+    "begin": "00:08:34.51",
+    "end": "00:08:35.69",
+    "text": "STUDENT: Same as before."
+  },
+  {
+
+    "begin": "00:08:35.69",
+    "end": "00:08:37.17",
+    "text": "PROFESSOR: Same as before?"
+  },
+  {
+
+    "begin": "00:08:37.17",
+    "end": "00:08:41.28",
+    "text": "So maybe we'll go like that?"
+  },
+  {
+
+    "begin": "00:08:41.28",
+    "end": "00:08:43.09",
+    "text": "That look right?"
+  },
+  {
+
+    "begin": "00:08:43.09",
+    "end": "00:08:45.84",
+    "text": "So this tangent is 0."
+  },
+  {
+
+    "begin": "00:08:45.84",
+    "end": "00:08:47.39",
+    "text": "On this side what do we have?"
+  },
+  {
+
+    "begin": "00:08:47.39",
+    "end": "00:08:51.21",
+    "text": "We now have positive and increasing,"
+  },
+  {
+
+    "begin": "00:08:51.21",
+    "end": "00:08:52.50",
+    "text": "so the only difference is what?"
+  },
+  {
+
+    "begin": "00:08:52.50",
+    "end": "00:08:55.03",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:08:55.03",
+    "end": "00:08:55.86",
+    "text": "STUDENT: Concave up."
+  },
+  {
+
+    "begin": "00:08:55.86",
+    "end": "00:09:00.46",
+    "text": "PROFESSOR: Concave up, so it'll look like that."
+  },
+  {
+
+    "begin": "00:09:00.46",
+    "end": "00:09:03.00",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:09:03.00",
+    "end": "00:09:06.09",
+    "text": "OK, so is this continuous or not continuous?"
+  },
+  {
+
+    "begin": "00:09:06.09",
+    "end": "00:09:06.92",
+    "text": "STUDENT: Continuous."
+  },
+  {
+
+    "begin": "00:09:06.92",
+    "end": "00:09:08.43",
+    "text": "PROFESSOR: It's continuous."
+  },
+  {
+
+    "begin": "00:09:08.43",
+    "end": "00:09:09.95",
+    "text": "If I took the derivative of this,"
+  },
+  {
+
+    "begin": "00:09:09.95",
+    "end": "00:09:12.66",
+    "text": "would it be continuous or not continuous?"
+  },
+  {
+
+    "begin": "00:09:12.66",
+    "end": "00:09:13.66",
+    "text": "STUDENT: Not continuous."
+  },
+  {
+
+    "begin": "00:09:13.66",
+    "end": "00:09:16.30",
+    "text": "PROFESSOR: Not continuous, because what"
+  },
+  {
+
+    "begin": "00:09:16.30",
+    "end": "00:09:19.17",
+    "text": "happens at this point?"
+  },
+  {
+
+    "begin": "00:09:19.17",
+    "end": "00:09:21.61",
+    "text": "STUDENT: It would be infinite number of tangents."
+  },
+  {
+
+    "begin": "00:09:21.61",
+    "end": "00:09:23.98",
+    "text": "PROFESSOR: Yeah, I could draw a million tangents to this,"
+  },
+  {
+
+    "begin": "00:09:23.98",
+    "end": "00:09:26.38",
+    "text": "or infinite tangents to this."
+  },
+  {
+
+    "begin": "00:09:26.38",
+    "end": "00:09:29.59",
+    "text": "So the derivative of this is not continuous, but as you see,"
+  },
+  {
+
+    "begin": "00:09:29.59",
+    "end": "00:09:32.41",
+    "text": "the antiderivative was continuous."
+  },
+  {
+
+    "begin": "00:09:32.41",
+    "end": "00:09:34.03",
+    "text": "So it's important to know."
+  },
+  {
+
+    "begin": "00:09:34.03",
+    "end": "00:09:37.44",
+    "text": "And then of course, as we said before, all of these"
+  },
+  {
+
+    "begin": "00:09:37.44",
+    "end": "00:09:42.90",
+    "text": "will be possible antiderivatives."
+  },
+  {
+
+    "begin": "00:09:42.90",
+    "end": "00:09:46.57",
+    "text": "OK, one last one and then we'll move on."
+  },
+  {
+
+    "begin": "00:09:46.57",
+    "end": "00:09:49.06",
+    "text": "Nobody has any questions about these?"
+  },
+  {
+
+    "begin": "00:09:49.06",
+    "end": "00:09:51.80",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:09:51.80",
+    "end": "00:09:52.73",
+    "text": "That's really good."
+  },
+  {
+
+    "begin": "00:09:52.73",
+    "end": "00:09:55.91",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:09:55.91",
+    "end": "00:10:18.74",
+    "text": "OK, so let's do-- OK, so this is a continuous-- this is a line"
+  },
+  {
+
+    "begin": "00:10:18.74",
+    "end": "00:10:22.06",
+    "text": "segment with one slope, and this is a line segment"
+  },
+  {
+
+    "begin": "00:10:22.06",
+    "end": "00:10:24.37",
+    "text": "with another slope."
+  },
+  {
+
+    "begin": "00:10:24.37",
+    "end": "00:10:27.53",
+    "text": "So what do we need to know?"
+  },
+  {
+
+    "begin": "00:10:27.53",
+    "end": "00:10:31.11",
+    "text": "From here to what point would matter?"
+  },
+  {
+
+    "begin": "00:10:31.11",
+    "end": "00:10:33.05",
+    "text": "STUDENT: On the x, where it crosses it."
+  },
+  {
+
+    "begin": "00:10:33.05",
+    "end": "00:10:33.72",
+    "text": "PROFESSOR: Here?"
+  },
+  {
+
+    "begin": "00:10:33.72",
+    "end": "00:10:34.80",
+    "text": "STUDENT: Yeah."
+  },
+  {
+
+    "begin": "00:10:34.80",
+    "end": "00:10:39.66",
+    "text": "PROFESSOR: OK, so how would you describe this section?"
+  },
+  {
+
+    "begin": "00:10:39.66",
+    "end": "00:10:42.82",
+    "text": "STUDENT: Positive and increasing-- sorry, negative."
+  },
+  {
+
+    "begin": "00:10:42.82",
+    "end": "00:10:44.49",
+    "text": "PROFESSOR: Negative and increasing, yep."
+  },
+  {
+
+    "begin": "00:10:44.49",
+    "end": "00:10:49.21",
+    "text": "So until this section on our function here,"
+  },
+  {
+
+    "begin": "00:10:49.21",
+    "end": "00:10:52.05",
+    "text": "what would it look like?"
+  },
+  {
+
+    "begin": "00:10:52.05",
+    "end": "00:10:56.52",
+    "text": "It would be decreasing and?"
+  },
+  {
+
+    "begin": "00:10:56.52",
+    "end": "00:10:58.87",
+    "text": "STUDENT: Concave up."
+  },
+  {
+
+    "begin": "00:10:58.87",
+    "end": "00:11:00.21",
+    "text": "PROFESSOR: Concave up?"
+  },
+  {
+
+    "begin": "00:11:00.21",
+    "end": "00:11:02.43",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:11:02.43",
+    "end": "00:11:05.33",
+    "text": "So where are we?"
+  },
+  {
+
+    "begin": "00:11:05.33",
+    "end": "00:11:10.47",
+    "text": "We're here, and at this point what's special?"
+  },
+  {
+
+    "begin": "00:11:10.47",
+    "end": "00:11:11.47",
+    "text": "STUDENT: The slope is 0."
+  },
+  {
+
+    "begin": "00:11:11.47",
+    "end": "00:11:12.17",
+    "text": "PROFESSOR: Mm-hm."
+  },
+  {
+
+    "begin": "00:11:12.17",
+    "end": "00:11:14.47",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:11:14.47",
+    "end": "00:11:16.89",
+    "text": "So that's what it should look like, right, where the slope"
+  },
+  {
+
+    "begin": "00:11:16.89",
+    "end": "00:11:18.62",
+    "text": "is 0?"
+  },
+  {
+
+    "begin": "00:11:18.62",
+    "end": "00:11:22.59",
+    "text": "OK, from here to here, what's happening?"
+  },
+  {
+
+    "begin": "00:11:22.59",
+    "end": "00:11:24.08",
+    "text": "STUDENT: Positive, increasing."
+  },
+  {
+
+    "begin": "00:11:24.08",
+    "end": "00:11:25.41",
+    "text": "PROFESSOR: Positive, increasing."
+  },
+  {
+
+    "begin": "00:11:25.41",
+    "end": "00:11:29.77",
+    "text": "So from here to here, we have what?"
+  },
+  {
+
+    "begin": "00:11:29.77",
+    "end": "00:11:31.52",
+    "text": "Increasing--"
+  },
+  {
+
+    "begin": "00:11:31.52",
+    "end": "00:11:32.35",
+    "text": "STUDENT: Concave up."
+  },
+  {
+
+    "begin": "00:11:32.35",
+    "end": "00:11:34.58",
+    "text": "PROFESSOR: Concave up."
+  },
+  {
+
+    "begin": "00:11:34.58",
+    "end": "00:11:38.96",
+    "text": "So this is one like a parabola, right there."
+  },
+  {
+
+    "begin": "00:11:38.96",
+    "end": "00:11:42.74",
+    "text": "And then what happens from here to here?"
+  },
+  {
+
+    "begin": "00:11:42.74",
+    "end": "00:11:44.98",
+    "text": "STUDENT: It's positive and increasing."
+  },
+  {
+
+    "begin": "00:11:44.98",
+    "end": "00:11:49.42",
+    "text": "PROFESSOR: So it's the same, but what's different about it?"
+  },
+  {
+
+    "begin": "00:11:49.42",
+    "end": "00:11:51.15",
+    "text": "STUDENT: It's more dramatic."
+  },
+  {
+
+    "begin": "00:11:51.15",
+    "end": "00:11:54.39",
+    "text": "PROFESSOR: It's more dramatic, so the slope is?"
+  },
+  {
+
+    "begin": "00:11:54.39",
+    "end": "00:11:55.22",
+    "text": "STUDENT: Greater."
+  },
+  {
+
+    "begin": "00:11:55.22",
+    "end": "00:11:56.01",
+    "text": "PROFESSOR: Greater."
+  },
+  {
+
+    "begin": "00:11:56.01",
+    "end": "00:11:59.06",
+    "text": "OK, so if I'm going to draw this,"
+  },
+  {
+
+    "begin": "00:11:59.06",
+    "end": "00:12:00.72",
+    "text": "this side goes like this, right?"
+  },
+  {
+
+    "begin": "00:12:00.72",
+    "end": "00:12:05.26",
+    "text": "So if it was the same parabola, it would go like this, yes?"
+  },
+  {
+
+    "begin": "00:12:05.26",
+    "end": "00:12:08.57",
+    "text": "This was one continuous line that went out this way."
+  },
+  {
+
+    "begin": "00:12:08.57",
+    "end": "00:12:11.17",
+    "text": "So what should it look like instead,"
+  },
+  {
+
+    "begin": "00:12:11.17",
+    "end": "00:12:13.91",
+    "text": "more like inside or outside?"
+  },
+  {
+
+    "begin": "00:12:13.91",
+    "end": "00:12:14.89",
+    "text": "STUDENT: Inside."
+  },
+  {
+
+    "begin": "00:12:14.89",
+    "end": "00:12:17.16",
+    "text": "PROFESSOR: Like that."
+  },
+  {
+
+    "begin": "00:12:17.16",
+    "end": "00:12:17.97",
+    "text": "OK?"
+  },
+  {
+
+    "begin": "00:12:17.97",
+    "end": "00:12:22.22",
+    "text": "Maybe not quite so bendy, but a nice curve that goes up."
+  },
+  {
+
+    "begin": "00:12:22.22",
+    "end": "00:12:25.97",
+    "text": "But there's a distinction between this curve"
+  },
+  {
+
+    "begin": "00:12:25.97",
+    "end": "00:12:26.92",
+    "text": "and that curve."
+  },
+  {
+
+    "begin": "00:12:26.92",
+    "end": "00:12:31.57",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:12:31.57",
+    "end": "00:12:34.22",
+    "text": "Questions about these things?"
+  },
+  {
+
+    "begin": "00:12:34.22",
+    "end": "00:12:35.85",
+    "text": "STUDENT: What are the major differences"
+  },
+  {
+
+    "begin": "00:12:35.85",
+    "end": "00:12:39.56",
+    "text": "if you were going to be asked to plot either the derivative"
+  },
+  {
+
+    "begin": "00:12:39.56",
+    "end": "00:12:40.47",
+    "text": "or antiderivative?"
+  },
+  {
+
+    "begin": "00:12:40.47",
+    "end": "00:12:42.14",
+    "text": "So for instance, one of them, when"
+  },
+  {
+
+    "begin": "00:12:42.14",
+    "end": "00:12:44.38",
+    "text": "you see the-- like the absolute value graph,"
+  },
+  {
+
+    "begin": "00:12:44.38",
+    "end": "00:12:46.59",
+    "text": "I know for antiderivative it's going to be continuous"
+  },
+  {
+
+    "begin": "00:12:46.59",
+    "end": "00:12:48.97",
+    "text": "but for derivative it wouldn't be."
+  },
+  {
+
+    "begin": "00:12:48.97",
+    "end": "00:12:50.40",
+    "text": "Are there other ones that--"
+  },
+  {
+
+    "begin": "00:12:50.40",
+    "end": "00:12:52.11",
+    "text": "PROFESSOR: Those are the main ones, where"
+  },
+  {
+
+    "begin": "00:12:52.11",
+    "end": "00:12:54.13",
+    "text": "the points of continuity are asymptotes,"
+  },
+  {
+
+    "begin": "00:12:54.13",
+    "end": "00:12:55.94",
+    "text": "where if you're taking the antiderivative,"
+  },
+  {
+
+    "begin": "00:12:55.94",
+    "end": "00:12:57.39",
+    "text": "you might be able to find it, or if you're"
+  },
+  {
+
+    "begin": "00:12:57.39",
+    "end": "00:12:58.83",
+    "text": "taking the derivative, you won't be able to find it,"
+  },
+  {
+
+    "begin": "00:12:58.83",
+    "end": "00:12:59.41",
+    "text": "or vice-versa."
+  },
+  {
+
+    "begin": "00:12:59.41",
+    "end": "00:13:01.73",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:13:01.73",
+    "end": "00:13:03.56",
+    "text": "But yeah, I think those are the main points."
+  },
+  {
+
+    "begin": "00:13:03.56",
+    "end": "00:13:06.67",
+    "text": "Because here we were able to do the same thing, right?"
+  },
+  {
+
+    "begin": "00:13:06.67",
+    "end": "00:13:08.81",
+    "text": "Here there's another point of discontinuity"
+  },
+  {
+
+    "begin": "00:13:08.81",
+    "end": "00:13:10.73",
+    "text": "if you're taking the derivative."
+  },
+  {
+
+    "begin": "00:13:10.73",
+    "end": "00:13:12.98",
+    "text": "But you create a pretty interesting antiderivative"
+  },
+  {
+
+    "begin": "00:13:12.98",
+    "end": "00:13:14.41",
+    "text": "from it."
+  },
+  {
+
+    "begin": "00:13:14.41",
+    "end": "00:13:16.11",
+    "text": "So I think you'll find the same things."
+  },
+  {
+
+    "begin": "00:13:16.11",
+    "end": "00:13:20.34",
+    "text": "Of course, you'll see, as you've seen on previous tests,"
+  },
+  {
+
+    "begin": "00:13:20.34",
+    "end": "00:13:23.69",
+    "text": "his will be a lot longer and they'll"
+  },
+  {
+
+    "begin": "00:13:23.69",
+    "end": "00:13:26.88",
+    "text": "have lots of ups and downs for you to figure out."
+  },
+  {
+
+    "begin": "00:13:26.88",
+    "end": "00:13:28.88",
+    "text": "And taking the antiderivative and the derivative"
+  },
+  {
+
+    "begin": "00:13:28.88",
+    "end": "00:13:32.24",
+    "text": "will be interesting at each of those points."
+  },
+  {
+
+    "begin": "00:13:32.24",
+    "end": "00:13:33.24",
+    "text": "Yeah."
+  },
+  {
+
+    "begin": "00:13:33.24",
+    "end": "00:13:39.99",
+    "text": "OK, so let's do a couple of word things."
+  },
+  {
+
+    "begin": "00:13:39.99",
+    "end": "00:13:55.24",
+    "text": "OK, so we have a population that is changing at a rate of f of t"
+  },
+  {
+
+    "begin": "00:13:55.24",
+    "end": "00:13:59.53",
+    "text": "equals t minus 3 in thousands of people per year."
+  },
+  {
+
+    "begin": "00:13:59.53",
+    "end": "00:14:03.67",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:14:03.67",
+    "end": "00:14:05.25",
+    "text": "So does this give you the population"
+  },
+  {
+
+    "begin": "00:14:05.25",
+    "end": "00:14:06.53",
+    "text": "if I solve this equation?"
+  },
+  {
+
+    "begin": "00:14:06.53",
+    "end": "00:14:09.93",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:14:09.93",
+    "end": "00:14:11.60",
+    "text": "No, it gives me the rate, yes?"
+  },
+  {
+
+    "begin": "00:14:11.60",
+    "end": "00:14:14.54",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:14:14.54",
+    "end": "00:14:28.05",
+    "text": "At t equals 0-- or at t0, the population is 30."
+  },
+  {
+
+    "begin": "00:14:28.05",
+    "end": "00:14:29.79",
+    "text": "So this is really f of 0, yes?"
+  },
+  {
+
+    "begin": "00:14:29.79",
+    "end": "00:14:32.35",
+    "text": "At t equals 0."
+  },
+  {
+
+    "begin": "00:14:32.35",
+    "end": "00:14:36.39",
+    "text": "The population is 30, and that's of course in thousand people."
+  },
+  {
+
+    "begin": "00:14:36.39",
+    "end": "00:14:40.07",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:14:40.07",
+    "end": "00:14:48.12",
+    "text": "OK, so our first question is, when is the population lowest?"
+  },
+  {
+
+    "begin": "00:14:48.12",
+    "end": "00:14:55.20",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:14:55.20",
+    "end": "00:14:58.07",
+    "text": "How might we go about finding this, or what's another way"
+  },
+  {
+
+    "begin": "00:14:58.07",
+    "end": "00:14:59.02",
+    "text": "to word this question?"
+  },
+  {
+
+    "begin": "00:14:59.02",
+    "end": "00:15:02.44",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:15:02.44",
+    "end": "00:15:03.94",
+    "text": "STUDENT: Where you use a number line"
+  },
+  {
+
+    "begin": "00:15:03.94",
+    "end": "00:15:06.94",
+    "text": "to find the current points."
+  },
+  {
+
+    "begin": "00:15:06.94",
+    "end": "00:15:07.75",
+    "text": "PROFESSOR: Mm-hm."
+  },
+  {
+
+    "begin": "00:15:07.75",
+    "end": "00:15:12.08",
+    "text": "So we're looking for-- say it again?"
+  },
+  {
+
+    "begin": "00:15:12.08",
+    "end": "00:15:13.23",
+    "text": "STUDENT: Global min."
+  },
+  {
+
+    "begin": "00:15:13.23",
+    "end": "00:15:14.31",
+    "text": "PROFESSOR: The global min."
+  },
+  {
+
+    "begin": "00:15:14.31",
+    "end": "00:15:17.61",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:15:17.61",
+    "end": "00:15:20.22",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:15:20.22",
+    "end": "00:15:24.23",
+    "text": "So how do we do this, how do we solve this?"
+  },
+  {
+
+    "begin": "00:15:24.23",
+    "end": "00:15:28.02",
+    "text": "STUDENT: t is equal to 3?"
+  },
+  {
+
+    "begin": "00:15:28.02",
+    "end": "00:15:29.53",
+    "text": "One of the critical points."
+  },
+  {
+
+    "begin": "00:15:29.53",
+    "end": "00:15:31.70",
+    "text": "PROFESSOR: We need to find the critical points, yes."
+  },
+  {
+
+    "begin": "00:15:31.70",
+    "end": "00:15:35.71",
+    "text": "But f of t is equal to what?"
+  },
+  {
+
+    "begin": "00:15:35.71",
+    "end": "00:15:36.55",
+    "text": "Not just this."
+  },
+  {
+
+    "begin": "00:15:36.55",
+    "end": "00:15:40.75",
+    "text": "Like logistically, what is f of t equal to?"
+  },
+  {
+
+    "begin": "00:15:40.75",
+    "end": "00:15:43.95",
+    "text": "f of t is the rate of change of the population."
+  },
+  {
+
+    "begin": "00:15:43.95",
+    "end": "00:15:44.78",
+    "text": "STUDENT: Derivative."
+  },
+  {
+
+    "begin": "00:15:44.78",
+    "end": "00:15:48.66",
+    "text": "PROFESSOR: It's the derivative of the population, yes?"
+  },
+  {
+
+    "begin": "00:15:48.66",
+    "end": "00:15:50.71",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:15:50.71",
+    "end": "00:15:55.30",
+    "text": "And so this is equal to t minus 3."
+  },
+  {
+
+    "begin": "00:15:55.30",
+    "end": "00:15:59.38",
+    "text": "So when we were looking at populations and rates of change"
+  },
+  {
+
+    "begin": "00:15:59.38",
+    "end": "00:16:02.47",
+    "text": "of things before, when we didn't know integrals,"
+  },
+  {
+
+    "begin": "00:16:02.47",
+    "end": "00:16:06.24",
+    "text": "when we were seeking the global min of an equation,"
+  },
+  {
+
+    "begin": "00:16:06.24",
+    "end": "00:16:06.98",
+    "text": "what did we do?"
+  },
+  {
+
+    "begin": "00:16:06.98",
+    "end": "00:16:09.64",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:16:09.64",
+    "end": "00:16:13.96",
+    "text": "We took the derivative and then we set it equal to 0."
+  },
+  {
+
+    "begin": "00:16:13.96",
+    "end": "00:16:17.40",
+    "text": "So now that we have the derivative already-- because we"
+  },
+  {
+
+    "begin": "00:16:17.40",
+    "end": "00:16:21.32",
+    "text": "want the global min of the population, not the global min"
+  },
+  {
+
+    "begin": "00:16:21.32",
+    "end": "00:16:23.21",
+    "text": "of the rate, right?"
+  },
+  {
+
+    "begin": "00:16:23.21",
+    "end": "00:16:25.04",
+    "text": "We don't want to take the derivative of this"
+  },
+  {
+
+    "begin": "00:16:25.04",
+    "end": "00:16:27.80",
+    "text": "again, because then we would be looking at the min of the rate,"
+  },
+  {
+
+    "begin": "00:16:27.80",
+    "end": "00:16:30.01",
+    "text": "and we're going to look at the min of the population."
+  },
+  {
+
+    "begin": "00:16:30.01",
+    "end": "00:16:33.73",
+    "text": "So we set this to 0, yes?"
+  },
+  {
+
+    "begin": "00:16:33.73",
+    "end": "00:16:35.56",
+    "text": "So when is it 0?"
+  },
+  {
+
+    "begin": "00:16:35.56",
+    "end": "00:16:36.82",
+    "text": "STUDENT: t is equal to 3."
+  },
+  {
+
+    "begin": "00:16:36.82",
+    "end": "00:16:38.67",
+    "text": "PROFESSOR: Right."
+  },
+  {
+
+    "begin": "00:16:38.67",
+    "end": "00:16:40.08",
+    "text": "OK, and so now what do we do?"
+  },
+  {
+
+    "begin": "00:16:40.08",
+    "end": "00:16:44.41",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:16:44.41",
+    "end": "00:16:45.38",
+    "text": "STUDENT: Number line?"
+  },
+  {
+
+    "begin": "00:16:45.38",
+    "end": "00:16:47.99",
+    "text": "PROFESSOR: Yeah, so we're going to test this on a number line"
+  },
+  {
+
+    "begin": "00:16:47.99",
+    "end": "00:16:49.87",
+    "text": "to see if 3 is the min or the max."
+  },
+  {
+
+    "begin": "00:16:49.87",
+    "end": "00:16:52.79",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:16:52.79",
+    "end": "00:16:58.18",
+    "text": "Which functions go on either side of this?"
+  },
+  {
+
+    "begin": "00:16:58.18",
+    "end": "00:17:00.00",
+    "text": "STUDENT: P prime at the bottom."
+  },
+  {
+
+    "begin": "00:17:00.00",
+    "end": "00:17:02.12",
+    "text": "PROFESSOR: P prime at the bottom and P at the top,"
+  },
+  {
+
+    "begin": "00:17:02.12",
+    "end": "00:17:05.01",
+    "text": "so this is equal to f, yes?"
+  },
+  {
+
+    "begin": "00:17:05.01",
+    "end": "00:17:08.33",
+    "text": "OK, so what number should we test?"
+  },
+  {
+
+    "begin": "00:17:08.33",
+    "end": "00:17:10.43",
+    "text": "STUDENT: 0."
+  },
+  {
+
+    "begin": "00:17:10.43",
+    "end": "00:17:12.13",
+    "text": "PROFESSOR: Sure, we can test 0."
+  },
+  {
+
+    "begin": "00:17:12.13",
+    "end": "00:17:16.96",
+    "text": "Which do we plug into, f or P?"
+  },
+  {
+
+    "begin": "00:17:16.96",
+    "end": "00:17:18.45",
+    "text": "STUDENT: F prime."
+  },
+  {
+
+    "begin": "00:17:18.45",
+    "end": "00:17:19.44",
+    "text": "PROFESSOR: f prime?"
+  },
+  {
+
+    "begin": "00:17:19.44",
+    "end": "00:17:20.72",
+    "text": "STUDENT: Sorry, P prime."
+  },
+  {
+
+    "begin": "00:17:20.72",
+    "end": "00:17:21.72",
+    "text": "PROFESSOR: Yes, P prime."
+  },
+  {
+
+    "begin": "00:17:21.72",
+    "end": "00:17:26.05",
+    "text": "So f, so f of-- you wanted to do 0?"
+  },
+  {
+
+    "begin": "00:17:26.05",
+    "end": "00:17:27.82",
+    "text": "Is what?"
+  },
+  {
+
+    "begin": "00:17:27.82",
+    "end": "00:17:29.57",
+    "text": "0 minus 3, so that's negative."
+  },
+  {
+
+    "begin": "00:17:29.57",
+    "end": "00:17:32.80",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:17:32.80",
+    "end": "00:17:34.15",
+    "text": "So what's happening to P?"
+  },
+  {
+
+    "begin": "00:17:34.15",
+    "end": "00:17:35.72",
+    "text": "STUDENT: Going down."
+  },
+  {
+
+    "begin": "00:17:35.72",
+    "end": "00:17:36.88",
+    "text": "PROFESSOR: Going down."
+  },
+  {
+
+    "begin": "00:17:36.88",
+    "end": "00:17:39.25",
+    "text": "And then what's on this side?"
+  },
+  {
+
+    "begin": "00:17:39.25",
+    "end": "00:17:40.18",
+    "text": "STUDENT: 4."
+  },
+  {
+
+    "begin": "00:17:40.18",
+    "end": "00:17:45.30",
+    "text": "PROFESSOR: 4, or any other number that's higher than 3."
+  },
+  {
+
+    "begin": "00:17:45.30",
+    "end": "00:17:49.35",
+    "text": "So 4 minus 3 is positive, so this is--"
+  },
+  {
+
+    "begin": "00:17:49.35",
+    "end": "00:17:50.50",
+    "text": "STUDENT: Going up."
+  },
+  {
+
+    "begin": "00:17:50.50",
+    "end": "00:17:53.16",
+    "text": "PROFESSOR: OK, so the population is decreasing until 3"
+  },
+  {
+
+    "begin": "00:17:53.16",
+    "end": "00:17:58.11",
+    "text": "and increasing after 3, so what do we know from this?"
+  },
+  {
+
+    "begin": "00:17:58.11",
+    "end": "00:17:59.47",
+    "text": "STUDENT: 3 is the min?"
+  },
+  {
+
+    "begin": "00:17:59.47",
+    "end": "00:18:04.82",
+    "text": "PROFESSOR: t equals 3 is the min."
+  },
+  {
+
+    "begin": "00:18:04.82",
+    "end": "00:18:07.54",
+    "text": "The population is lowest at time 3."
+  },
+  {
+
+    "begin": "00:18:07.54",
+    "end": "00:18:11.35",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:18:11.35",
+    "end": "00:18:13.04",
+    "text": "And time 3 is what in words?"
+  },
+  {
+
+    "begin": "00:18:13.04",
+    "end": "00:18:16.41",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:18:16.41",
+    "end": "00:18:22.77",
+    "text": "It's three years in to this problem."
+  },
+  {
+
+    "begin": "00:18:22.77",
+    "end": "00:18:33.71",
+    "text": "OK, so what is the maximum population"
+  },
+  {
+
+    "begin": "00:18:33.71",
+    "end": "00:18:39.41",
+    "text": "between year 0 and year 10?"
+  },
+  {
+
+    "begin": "00:18:39.41",
+    "end": "00:18:44.10",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:18:44.10",
+    "end": "00:18:48.87",
+    "text": "What are the possibilities that we want to look at for this?"
+  },
+  {
+
+    "begin": "00:18:48.87",
+    "end": "00:18:51.34",
+    "text": "STUDENT: We want to definitely look at 0 and at 10."
+  },
+  {
+
+    "begin": "00:18:51.34",
+    "end": "00:18:52.56",
+    "text": "PROFESSOR: We want to look at 0 and 10."
+  },
+  {
+
+    "begin": "00:18:52.56",
+    "end": "00:18:54.19",
+    "text": "Is there anywhere else we want to look?"
+  },
+  {
+
+    "begin": "00:18:54.19",
+    "end": "00:18:57.34",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:18:57.34",
+    "end": "00:18:58.26",
+    "text": "STUDENT: Probably not."
+  },
+  {
+
+    "begin": "00:18:58.26",
+    "end": "00:18:59.87",
+    "text": "You know t of 3 is the minimum."
+  },
+  {
+
+    "begin": "00:18:59.87",
+    "end": "00:19:01.24",
+    "text": "PROFESSOR: We know that t of 3 is"
+  },
+  {
+
+    "begin": "00:19:01.24",
+    "end": "00:19:04.00",
+    "text": "the minimum, so if we were trying to sketch this out"
+  },
+  {
+
+    "begin": "00:19:04.00",
+    "end": "00:19:07.05",
+    "text": "and we have t 3, and--"
+  },
+  {
+
+    "begin": "00:19:07.05",
+    "end": "00:19:09.11",
+    "text": "STUDENT: Upward concave up parabola."
+  },
+  {
+
+    "begin": "00:19:09.11",
+    "end": "00:19:12.00",
+    "text": "PROFESSOR: You think it would look like this?"
+  },
+  {
+
+    "begin": "00:19:12.00",
+    "end": "00:19:13.81",
+    "text": "Let's assume that starts at 0."
+  },
+  {
+
+    "begin": "00:19:13.81",
+    "end": "00:19:16.58",
+    "text": "So we need to know if 0-- if 10 is up here"
+  },
+  {
+
+    "begin": "00:19:16.58",
+    "end": "00:19:21.77",
+    "text": "or if 10 is down here, what's going on, right?"
+  },
+  {
+
+    "begin": "00:19:21.77",
+    "end": "00:19:23.06",
+    "text": "That graph is not to scale."
+  },
+  {
+
+    "begin": "00:19:23.06",
+    "end": "00:19:25.28",
+    "text": "I didn't do that based on anything."
+  },
+  {
+
+    "begin": "00:19:25.28",
+    "end": "00:19:28.91",
+    "text": "This is just like what your mind should be thinking about."
+  },
+  {
+
+    "begin": "00:19:28.91",
+    "end": "00:19:34.84",
+    "text": "So our ideas are maybe t equals 0, maybe t equals 10."
+  },
+  {
+
+    "begin": "00:19:34.84",
+    "end": "00:19:38.30",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:19:38.30",
+    "end": "00:19:40.79",
+    "text": "OK, how do we solve this?"
+  },
+  {
+
+    "begin": "00:19:40.79",
+    "end": "00:19:42.12",
+    "text": "What are we going to need to do?"
+  },
+  {
+
+    "begin": "00:19:42.12",
+    "end": "00:19:46.53",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:19:46.53",
+    "end": "00:19:48.00",
+    "text": "STUDENT: Take the antiderivative."
+  },
+  {
+
+    "begin": "00:19:48.00",
+    "end": "00:19:49.50",
+    "text": "PROFESSOR: Yeah, we're going to take"
+  },
+  {
+
+    "begin": "00:19:49.50",
+    "end": "00:19:53.84",
+    "text": "the antiderivative of our rate to find what our population is."
+  },
+  {
+
+    "begin": "00:19:53.84",
+    "end": "00:19:56.13",
+    "text": "We want to know what the actual value of the population"
+  },
+  {
+
+    "begin": "00:19:56.13",
+    "end": "00:19:57.93",
+    "text": "is at each of these."
+  },
+  {
+
+    "begin": "00:19:57.93",
+    "end": "00:20:01.64",
+    "text": "So if we take the derivative of f of t,"
+  },
+  {
+
+    "begin": "00:20:01.64",
+    "end": "00:20:04.27",
+    "text": "we should get P t, right?"
+  },
+  {
+
+    "begin": "00:20:04.27",
+    "end": "00:20:07.31",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:20:07.31",
+    "end": "00:20:09.87",
+    "text": "I'm sorry, if we take the integral of f of t,"
+  },
+  {
+
+    "begin": "00:20:09.87",
+    "end": "00:20:11.24",
+    "text": "we'll get P t."
+  },
+  {
+
+    "begin": "00:20:11.24",
+    "end": "00:20:18.89",
+    "text": "So the integral of t minus 3 dt is what?"
+  },
+  {
+
+    "begin": "00:20:18.89",
+    "end": "00:20:24.10",
+    "text": "STUDENT: t squared over 2 minus 3t."
+  },
+  {
+
+    "begin": "00:20:24.10",
+    "end": "00:20:25.40",
+    "text": "PROFESSOR: Minus 3t."
+  },
+  {
+
+    "begin": "00:20:25.40",
+    "end": "00:20:26.11",
+    "text": "STUDENT: Plus c."
+  },
+  {
+
+    "begin": "00:20:26.11",
+    "end": "00:20:27.83",
+    "text": "PROFESSOR: Plus c."
+  },
+  {
+
+    "begin": "00:20:27.83",
+    "end": "00:20:29.66",
+    "text": "OK, but this isn't super helpful, right?"
+  },
+  {
+
+    "begin": "00:20:29.66",
+    "end": "00:20:34.49",
+    "text": "Because if I plug in 0, I'll get 0 minus 0"
+  },
+  {
+
+    "begin": "00:20:34.49",
+    "end": "00:20:37.29",
+    "text": "plus c, so I know that's c."
+  },
+  {
+
+    "begin": "00:20:37.29",
+    "end": "00:20:38.86",
+    "text": "And at 10-- I mean, I guess I could."
+  },
+  {
+
+    "begin": "00:20:38.86",
+    "end": "00:20:40.16",
+    "text": "This is actually helpful."
+  },
+  {
+
+    "begin": "00:20:40.16",
+    "end": "00:20:44.62",
+    "text": "But I want to know what c actually is."
+  },
+  {
+
+    "begin": "00:20:44.62",
+    "end": "00:20:47.56",
+    "text": "How do we do that?"
+  },
+  {
+
+    "begin": "00:20:47.56",
+    "end": "00:20:52.55",
+    "text": "STUDENT: You know from the equation at time t equals 0--"
+  },
+  {
+
+    "begin": "00:20:52.55",
+    "end": "00:20:53.88",
+    "text": "PROFESSOR: The population is 30."
+  },
+  {
+
+    "begin": "00:20:53.88",
+    "end": "00:20:55.38",
+    "text": "STUDENT: --the population is 30."
+  },
+  {
+
+    "begin": "00:20:55.38",
+    "end": "00:21:00.45",
+    "text": "PROFESSOR: So now we know p 0 equals"
+  },
+  {
+
+    "begin": "00:21:00.45",
+    "end": "00:21:06.00",
+    "text": "30, which means that if we plug in for 0, we have 1/2 of 0"
+  },
+  {
+
+    "begin": "00:21:06.00",
+    "end": "00:21:12.10",
+    "text": "squared minus 3 times 0 plus c equals 30."
+  },
+  {
+
+    "begin": "00:21:12.10",
+    "end": "00:21:14.04",
+    "text": "So now c equals?"
+  },
+  {
+
+    "begin": "00:21:14.04",
+    "end": "00:21:14.54",
+    "text": "STUDENT: 30."
+  },
+  {
+
+    "begin": "00:21:14.54",
+    "end": "00:21:16.85",
+    "text": "PROFESSOR: 30."
+  },
+  {
+
+    "begin": "00:21:16.85",
+    "end": "00:21:27.89",
+    "text": "OK, so our P t is 1/2 t squared minus 3t plus 30."
+  },
+  {
+
+    "begin": "00:21:27.89",
+    "end": "00:21:31.37",
+    "text": "OK, so what's our next step?"
+  },
+  {
+
+    "begin": "00:21:31.37",
+    "end": "00:21:33.58",
+    "text": "STUDENT: Now you can plug in t equals 10."
+  },
+  {
+
+    "begin": "00:21:33.58",
+    "end": "00:21:34.70",
+    "text": "PROFESSOR: OK, t equals 10."
+  },
+  {
+
+    "begin": "00:21:34.70",
+    "end": "00:21:39.29",
+    "text": "So we know that p of 0 is 30, so now we just need to test 10."
+  },
+  {
+
+    "begin": "00:21:39.29",
+    "end": "00:21:45.74",
+    "text": "So P of 10 will be 1/2 times 10 squared"
+  },
+  {
+
+    "begin": "00:21:45.74",
+    "end": "00:21:49.72",
+    "text": "minus 3 times 10 plus 30."
+  },
+  {
+
+    "begin": "00:21:49.72",
+    "end": "00:21:52.73",
+    "text": "So what is that equal to?"
+  },
+  {
+
+    "begin": "00:21:52.73",
+    "end": "00:21:53.23",
+    "text": "STUDENT: 50."
+  },
+  {
+
+    "begin": "00:21:53.23",
+    "end": "00:21:53.81",
+    "text": "PROFESSOR: 50."
+  },
+  {
+
+    "begin": "00:21:53.81",
+    "end": "00:21:57.69",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:21:57.69",
+    "end": "00:22:00.17",
+    "text": "OK, so which one's the maximum population?"
+  },
+  {
+
+    "begin": "00:22:00.17",
+    "end": "00:22:04.09",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:22:04.09",
+    "end": "00:22:05.85",
+    "text": "So we have our max population--"
+  },
+  {
+
+    "begin": "00:22:05.85",
+    "end": "00:22:06.82",
+    "text": "STUDENT: 10 years."
+  },
+  {
+
+    "begin": "00:22:06.82",
+    "end": "00:22:07.86",
+    "text": "PROFESSOR: --at 10 years."
+  },
+  {
+
+    "begin": "00:22:07.86",
+    "end": "00:22:10.43",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:22:10.43",
+    "end": "00:22:17.09",
+    "text": "OK, so as you saw from this graph earlier"
+  },
+  {
+
+    "begin": "00:22:17.09",
+    "end": "00:22:21.76",
+    "text": "that we started to draw, if the lowest point of our parabola"
+  },
+  {
+
+    "begin": "00:22:21.76",
+    "end": "00:22:29.79",
+    "text": "is at 3, the symmetrical point will be at what?"
+  },
+  {
+
+    "begin": "00:22:29.79",
+    "end": "00:22:32.37",
+    "text": "The symmetrical point to t 0--"
+  },
+  {
+
+    "begin": "00:22:32.37",
+    "end": "00:22:33.02",
+    "text": "STUDENT: 6."
+  },
+  {
+
+    "begin": "00:22:33.02",
+    "end": "00:22:34.48",
+    "text": "PROFESSOR: --will be at 6."
+  },
+  {
+
+    "begin": "00:22:34.48",
+    "end": "00:22:37.22",
+    "text": "And then it will increase to 10."
+  },
+  {
+
+    "begin": "00:22:37.22",
+    "end": "00:22:40.28",
+    "text": "So we could have known from this problem"
+  },
+  {
+
+    "begin": "00:22:40.28",
+    "end": "00:22:42.22",
+    "text": "without doing any of this math, we"
+  },
+  {
+
+    "begin": "00:22:42.22",
+    "end": "00:22:44.80",
+    "text": "could've known from the shape of a parabola, which"
+  },
+  {
+
+    "begin": "00:22:44.80",
+    "end": "00:22:47.49",
+    "text": "is going to be the antiderivative of our rate,"
+  },
+  {
+
+    "begin": "00:22:47.49",
+    "end": "00:22:49.93",
+    "text": "we could have known that 10 would be the highest."
+  },
+  {
+
+    "begin": "00:22:49.93",
+    "end": "00:22:52.84",
+    "text": "However, this math really proves it."
+  },
+  {
+
+    "begin": "00:22:52.84",
+    "end": "00:22:55.17",
+    "text": "This math really proves that 50 is higher than 30, which"
+  },
+  {
+
+    "begin": "00:22:55.17",
+    "end": "00:22:57.36",
+    "text": "means that 10 years is the max."
+  },
+  {
+
+    "begin": "00:22:57.36",
+    "end": "00:23:00.45",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:23:00.45",
+    "end": "00:23:02.06",
+    "text": "OK, any questions on that?"
+  },
+  {
+
+    "begin": "00:23:02.06",
+    "end": "00:23:15.19",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:23:15.19",
+    "end": "00:23:15.69",
+    "text": "No?"
+  },
+  {
+
+    "begin": "00:23:15.69",
+    "end": "00:23:17.78",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:23:17.78",
+    "end": "00:23:28.43",
+    "text": "So our next question is, what is the average rate of change"
+  },
+  {
+
+    "begin": "00:23:28.43",
+    "end": "00:23:33.32",
+    "text": "over the interval 0 to 10?"
+  },
+  {
+
+    "begin": "00:23:33.32",
+    "end": "00:23:35.19",
+    "text": "How do we compute the average rate of change?"
+  },
+  {
+
+    "begin": "00:23:35.19",
+    "end": "00:23:38.88",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:23:38.88",
+    "end": "00:23:41.59",
+    "text": "STUDENT: In general, or for this?"
+  },
+  {
+
+    "begin": "00:23:41.59",
+    "end": "00:23:42.26",
+    "text": "PROFESSOR: Both."
+  },
+  {
+
+    "begin": "00:23:42.26",
+    "end": "00:23:42.76",
+    "text": "Either."
+  },
+  {
+
+    "begin": "00:23:42.76",
+    "end": "00:23:46.52",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:23:46.52",
+    "end": "00:23:51.88",
+    "text": "STUDENT: P 10 minus P 0 divided by 10 minus 0."
+  },
+  {
+
+    "begin": "00:23:51.88",
+    "end": "00:23:54.77",
+    "text": "PROFESSOR: P 10 minus P 0 over 10 minus 0?"
+  },
+  {
+
+    "begin": "00:23:54.77",
+    "end": "00:23:57.44",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:23:57.44",
+    "end": "00:23:58.45",
+    "text": "Yes."
+  },
+  {
+
+    "begin": "00:23:58.45",
+    "end": "00:24:02.56",
+    "text": "So what's the other way to describe this?"
+  },
+  {
+
+    "begin": "00:24:02.56",
+    "end": "00:24:04.23",
+    "text": "STUDENT: y [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:24:04.23",
+    "end": "00:24:06.53",
+    "text": "PROFESSOR: Change in y over change in x?"
+  },
+  {
+
+    "begin": "00:24:06.53",
+    "end": "00:24:08.34",
+    "text": "For the rate of change, right?"
+  },
+  {
+
+    "begin": "00:24:08.34",
+    "end": "00:24:09.74",
+    "text": "So we didn't have to do anything."
+  },
+  {
+
+    "begin": "00:24:09.74",
+    "end": "00:24:12.52",
+    "text": "We didn't have to do any antiderivatives,"
+  },
+  {
+
+    "begin": "00:24:12.52",
+    "end": "00:24:14.52",
+    "text": "we didn't have to do any derivatives."
+  },
+  {
+
+    "begin": "00:24:14.52",
+    "end": "00:24:17.44",
+    "text": "We can just calculate it."
+  },
+  {
+
+    "begin": "00:24:17.44",
+    "end": "00:24:21.46",
+    "text": "OK, so we know P 10 is what?"
+  },
+  {
+
+    "begin": "00:24:21.46",
+    "end": "00:24:21.96",
+    "text": "STUDENT: 50."
+  },
+  {
+
+    "begin": "00:24:21.96",
+    "end": "00:24:23.03",
+    "text": "PROFESSOR: 50."
+  },
+  {
+
+    "begin": "00:24:23.03",
+    "end": "00:24:24.36",
+    "text": "P 0 was?"
+  },
+  {
+
+    "begin": "00:24:24.36",
+    "end": "00:24:25.05",
+    "text": "STUDENT: 30."
+  },
+  {
+
+    "begin": "00:24:25.05",
+    "end": "00:24:25.76",
+    "text": "PROFESSOR: 30."
+  },
+  {
+
+    "begin": "00:24:25.76",
+    "end": "00:24:28.32",
+    "text": "And then 10 minus 0 is 10."
+  },
+  {
+
+    "begin": "00:24:28.32",
+    "end": "00:24:30.13",
+    "text": "So what is this?"
+  },
+  {
+
+    "begin": "00:24:30.13",
+    "end": "00:24:30.63",
+    "text": "STUDENT: 2."
+  },
+  {
+
+    "begin": "00:24:30.63",
+    "end": "00:24:31.38",
+    "text": "PROFESSOR: 2 what?"
+  },
+  {
+
+    "begin": "00:24:31.38",
+    "end": "00:24:34.37",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:24:34.37",
+    "end": "00:24:35.70",
+    "text": "Thousand people per year."
+  },
+  {
+
+    "begin": "00:24:35.70",
+    "end": "00:24:38.87",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:24:38.87",
+    "end": "00:24:41.63",
+    "text": "OK, it's important to include those units so you"
+  },
+  {
+
+    "begin": "00:24:41.63",
+    "end": "00:24:42.92",
+    "text": "know what you're talking about."
+  },
+  {
+
+    "begin": "00:24:42.92",
+    "end": "00:24:45.71",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:24:45.71",
+    "end": "00:24:47.08",
+    "text": "OK, so if that's the average rate"
+  },
+  {
+
+    "begin": "00:24:47.08",
+    "end": "00:24:55.22",
+    "text": "of change, what's the average population"
+  },
+  {
+
+    "begin": "00:24:55.22",
+    "end": "00:24:57.69",
+    "text": "over the same interval, 0 to 10?"
+  },
+  {
+
+    "begin": "00:24:57.69",
+    "end": "00:24:58.74",
+    "text": "How do we calculate this?"
+  },
+  {
+
+    "begin": "00:24:58.74",
+    "end": "00:25:02.68",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:25:02.68",
+    "end": "00:25:05.48",
+    "text": "STUDENT: The integral of P."
+  },
+  {
+
+    "begin": "00:25:05.48",
+    "end": "00:25:09.60",
+    "text": "PROFESSOR: The integral of P."
+  },
+  {
+
+    "begin": "00:25:09.60",
+    "end": "00:25:21.33",
+    "text": "STUDENT: Over 0 to 10 times 1 over 10 minus 0."
+  },
+  {
+
+    "begin": "00:25:21.33",
+    "end": "00:25:24.43",
+    "text": "PROFESSOR: Mm-hm, perfect."
+  },
+  {
+
+    "begin": "00:25:24.43",
+    "end": "00:25:27.61",
+    "text": "STUDENT: Where did the 1/10 come from?"
+  },
+  {
+
+    "begin": "00:25:27.61",
+    "end": "00:25:29.54",
+    "text": "PROFESSOR: You're doing kind of the same thing"
+  },
+  {
+
+    "begin": "00:25:29.54",
+    "end": "00:25:31.53",
+    "text": "as you doing you're doing up here,"
+  },
+  {
+
+    "begin": "00:25:31.53",
+    "end": "00:25:36.21",
+    "text": "in that you're dividing by the length of the interval."
+  },
+  {
+
+    "begin": "00:25:36.21",
+    "end": "00:25:36.71",
+    "text": "STUDENT: OK."
+  },
+  {
+
+    "begin": "00:25:36.71",
+    "end": "00:25:38.67",
+    "text": "PROFESSOR: So you're doing the integral"
+  },
+  {
+
+    "begin": "00:25:38.67",
+    "end": "00:25:40.11",
+    "text": "over the length of the interval."
+  },
+  {
+
+    "begin": "00:25:40.11",
+    "end": "00:25:40.90",
+    "text": "STUDENT: Oh, I see."
+  },
+  {
+
+    "begin": "00:25:40.90",
+    "end": "00:25:42.43",
+    "text": "PROFESSOR: Yeah."
+  },
+  {
+
+    "begin": "00:25:42.43",
+    "end": "00:25:46.37",
+    "text": "OK, so what will this look like?"
+  },
+  {
+
+    "begin": "00:25:46.37",
+    "end": "00:25:48.97",
+    "text": "What's the integral of P t dt?"
+  },
+  {
+
+    "begin": "00:25:48.97",
+    "end": "00:25:54.11",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:25:54.11",
+    "end": "00:25:56.81",
+    "text": "STUDENT: You should take the integral of P t?"
+  },
+  {
+
+    "begin": "00:25:56.81",
+    "end": "00:25:57.52",
+    "text": "PROFESSOR: Mm-hm."
+  },
+  {
+
+    "begin": "00:25:57.52",
+    "end": "00:26:00.45",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:26:00.45",
+    "end": "00:26:03.86",
+    "text": "STUDENT: So that's t cubed over 6."
+  },
+  {
+
+    "begin": "00:26:03.86",
+    "end": "00:26:11.20",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:26:11.20",
+    "end": "00:26:13.64",
+    "text": "1/2 t squared."
+  },
+  {
+
+    "begin": "00:26:13.64",
+    "end": "00:26:15.22",
+    "text": "PROFESSOR: No, sorry."
+  },
+  {
+
+    "begin": "00:26:15.22",
+    "end": "00:26:18.82",
+    "text": "We'll want to do the integral of the rate."
+  },
+  {
+
+    "begin": "00:26:18.82",
+    "end": "00:26:21.76",
+    "text": "We want to do the integral of P prime of t."
+  },
+  {
+
+    "begin": "00:26:21.76",
+    "end": "00:26:22.67",
+    "text": "STUDENT: Rate?"
+  },
+  {
+
+    "begin": "00:26:22.67",
+    "end": "00:26:24.43",
+    "text": "PROFESSOR: Mm-hm."
+  },
+  {
+
+    "begin": "00:26:24.43",
+    "end": "00:26:26.01",
+    "text": "Because then we'll get the population."
+  },
+  {
+
+    "begin": "00:26:26.01",
+    "end": "00:26:29.96",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:26:29.96",
+    "end": "00:26:32.03",
+    "text": "Sorry, I should've included the prime."
+  },
+  {
+
+    "begin": "00:26:32.03",
+    "end": "00:26:33.71",
+    "text": "So we already know this integral."
+  },
+  {
+
+    "begin": "00:26:33.71",
+    "end": "00:26:37.63",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:26:37.63",
+    "end": "00:26:38.92",
+    "text": "STUDENT: [INAUDIBLE] t squared."
+  },
+  {
+
+    "begin": "00:26:38.92",
+    "end": "00:26:39.59",
+    "text": "PROFESSOR: Yeah."
+  },
+  {
+
+    "begin": "00:26:39.59",
+    "end": "00:26:45.96",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:26:45.96",
+    "end": "00:26:46.95",
+    "text": "STUDENT: [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:26:46.95",
+    "end": "00:26:47.51",
+    "text": "PROFESSOR: Oh, no."
+  },
+  {
+
+    "begin": "00:26:47.51",
+    "end": "00:26:48.47",
+    "text": "STUDENT: She had it right."
+  },
+  {
+
+    "begin": "00:26:48.47",
+    "end": "00:26:51.05",
+    "text": "PROFESSOR: No, I had it right, I had it right, I had it right."
+  },
+  {
+
+    "begin": "00:26:51.05",
+    "end": "00:26:53.18",
+    "text": "I had it right, sorry."
+  },
+  {
+
+    "begin": "00:26:53.18",
+    "end": "00:27:01.98",
+    "text": "0 to 10 of 1/2 t squared minus 3t plus 30 dt."
+  },
+  {
+
+    "begin": "00:27:01.98",
+    "end": "00:27:04.76",
+    "text": "Sometimes my notes are very unclear."
+  },
+  {
+
+    "begin": "00:27:04.76",
+    "end": "00:27:07.52",
+    "text": "OK, so now we're going to do this, and Vishal,"
+  },
+  {
+
+    "begin": "00:27:07.52",
+    "end": "00:27:11.91",
+    "text": "you had this right, so why don't you do it?"
+  },
+  {
+
+    "begin": "00:27:11.91",
+    "end": "00:27:12.92",
+    "text": "STUDENT: t cubed over--"
+  },
+  {
+
+    "begin": "00:27:12.92",
+    "end": "00:27:15.60",
+    "text": "PROFESSOR: t cubed over 6."
+  },
+  {
+
+    "begin": "00:27:15.60",
+    "end": "00:27:19.87",
+    "text": "STUDENT: Minus 3/2 t squared."
+  },
+  {
+
+    "begin": "00:27:19.87",
+    "end": "00:27:21.29",
+    "text": "PROFESSOR: Yep."
+  },
+  {
+
+    "begin": "00:27:21.29",
+    "end": "00:27:24.94",
+    "text": "STUDENT: And 30t plus c."
+  },
+  {
+
+    "begin": "00:27:24.94",
+    "end": "00:27:25.69",
+    "text": "PROFESSOR: Plus c?"
+  },
+  {
+
+    "begin": "00:27:25.69",
+    "end": "00:27:26.81",
+    "text": "STUDENT: Oh, I'm sorry, no."
+  },
+  {
+
+    "begin": "00:27:26.81",
+    "end": "00:27:27.53",
+    "text": "You need limits."
+  },
+  {
+
+    "begin": "00:27:27.53",
+    "end": "00:27:30.29",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:27:30.29",
+    "end": "00:27:32.13",
+    "text": "PROFESSOR: From 0 to 10."
+  },
+  {
+
+    "begin": "00:27:32.13",
+    "end": "00:27:33.81",
+    "text": "OK?"
+  },
+  {
+
+    "begin": "00:27:33.81",
+    "end": "00:27:39.42",
+    "text": "So now we have this 1/10 times-- and now we're"
+  },
+  {
+
+    "begin": "00:27:39.42",
+    "end": "00:27:41.39",
+    "text": "going to plug 10 in."
+  },
+  {
+
+    "begin": "00:27:41.39",
+    "end": "00:27:49.32",
+    "text": "So 1/6 times 10 cubed minus 3/2 times 10 squared plus 30 times"
+  },
+  {
+
+    "begin": "00:27:49.32",
+    "end": "00:27:50.34",
+    "text": "10."
+  },
+  {
+
+    "begin": "00:27:50.34",
+    "end": "00:27:51.67",
+    "text": "STUDENT: Minus 0."
+  },
+  {
+
+    "begin": "00:27:51.67",
+    "end": "00:27:53.18",
+    "text": "PROFESSOR: Minus 0."
+  },
+  {
+
+    "begin": "00:27:53.18",
+    "end": "00:27:56.64",
+    "text": "STUDENT: I'll do that part."
+  },
+  {
+
+    "begin": "00:27:56.64",
+    "end": "00:27:59.38",
+    "text": "PROFESSOR: It's good, we need everyone to contribute."
+  },
+  {
+
+    "begin": "00:27:59.38",
+    "end": "00:28:02.39",
+    "text": "So we have 1/10 times?"
+  },
+  {
+
+    "begin": "00:28:02.39",
+    "end": "00:28:04.86",
+    "text": "STUDENT: 1,000 over 6."
+  },
+  {
+
+    "begin": "00:28:04.86",
+    "end": "00:28:09.74",
+    "text": "PROFESSOR: 1,000 over 6, minus?"
+  },
+  {
+
+    "begin": "00:28:09.74",
+    "end": "00:28:10.28",
+    "text": "STUDENT: 300."
+  },
+  {
+
+    "begin": "00:28:10.28",
+    "end": "00:28:11.76",
+    "text": "STUDENT: [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:28:11.76",
+    "end": "00:28:20.39",
+    "text": "PROFESSOR: 300 over 2 plus 300, Yes?"
+  },
+  {
+
+    "begin": "00:28:20.39",
+    "end": "00:28:21.91",
+    "text": "Am I right?"
+  },
+  {
+
+    "begin": "00:28:21.91",
+    "end": "00:28:24.41",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:28:24.41",
+    "end": "00:28:25.87",
+    "text": "I have the eraser in my other hand."
+  },
+  {
+
+    "begin": "00:28:25.87",
+    "end": "00:28:30.58",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:28:30.58",
+    "end": "00:28:33.67",
+    "text": "OK, so we need to just combine some fractions here."
+  },
+  {
+
+    "begin": "00:28:33.67",
+    "end": "00:28:37.90",
+    "text": "So we have 1/10 times-- which denominator do you"
+  },
+  {
+
+    "begin": "00:28:37.90",
+    "end": "00:28:41.53",
+    "text": "guys want to use, or how do you want to simplify them?"
+  },
+  {
+
+    "begin": "00:28:41.53",
+    "end": "00:28:45.79",
+    "text": "STUDENT: Just multiply through by 10 first [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:28:45.79",
+    "end": "00:28:47.50",
+    "text": "PROFESSOR: You want to multiply, you want"
+  },
+  {
+
+    "begin": "00:28:47.50",
+    "end": "00:28:48.52",
+    "text": "to multiply this through first?"
+  },
+  {
+
+    "begin": "00:28:48.52",
+    "end": "00:28:49.16",
+    "text": "STUDENT: Yeah."
+  },
+  {
+
+    "begin": "00:28:49.16",
+    "end": "00:28:49.83",
+    "text": "PROFESSOR: Sure."
+  },
+  {
+
+    "begin": "00:28:49.83",
+    "end": "00:28:54.45",
+    "text": "STUDENT: So you have 100 over 6 and then--"
+  },
+  {
+
+    "begin": "00:28:54.45",
+    "end": "00:29:03.19",
+    "text": "PROFESSOR: So we have 100 over 6 minus 30 over 2 plus 30?"
+  },
+  {
+
+    "begin": "00:29:03.19",
+    "end": "00:29:03.88",
+    "text": "30, yes?"
+  },
+  {
+
+    "begin": "00:29:03.88",
+    "end": "00:29:07.40",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:29:07.40",
+    "end": "00:29:08.32",
+    "text": "OK, so now--"
+  },
+  {
+
+    "begin": "00:29:08.32",
+    "end": "00:29:18.81",
+    "text": "STUDENT: [INAUDIBLE] 100 over 6 minus 15 plus 30, or you"
+  },
+  {
+
+    "begin": "00:29:18.81",
+    "end": "00:29:21.76",
+    "text": "can just say plus 15 there."
+  },
+  {
+
+    "begin": "00:29:21.76",
+    "end": "00:29:23.02",
+    "text": "PROFESSOR: Minus 15."
+  },
+  {
+
+    "begin": "00:29:23.02",
+    "end": "00:29:24.35",
+    "text": "Oh, minus 15 plus 30."
+  },
+  {
+
+    "begin": "00:29:24.35",
+    "end": "00:29:27.09",
+    "text": "STUDENT: Yeah."
+  },
+  {
+
+    "begin": "00:29:27.09",
+    "end": "00:29:29.23",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:29:29.23",
+    "end": "00:29:32.02",
+    "text": "You can even leave this as this if you wanted."
+  },
+  {
+
+    "begin": "00:29:32.02",
+    "end": "00:29:32.82",
+    "text": "It's not wrong."
+  },
+  {
+
+    "begin": "00:29:32.82",
+    "end": "00:29:39.55",
+    "text": "But you can simplify even more, but you don't need to."
+  },
+  {
+
+    "begin": "00:29:39.55",
+    "end": "00:29:45.08",
+    "text": "I think the answer is 31 and 2/3."
+  },
+  {
+
+    "begin": "00:29:45.08",
+    "end": "00:29:46.34",
+    "text": "31 and 2/3 what?"
+  },
+  {
+
+    "begin": "00:29:46.34",
+    "end": "00:29:49.05",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:29:49.05",
+    "end": "00:29:51.47",
+    "text": "STUDENT: [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:29:51.47",
+    "end": "00:29:56.94",
+    "text": "PROFESSOR: 1,000 people."
+  },
+  {
+
+    "begin": "00:29:56.94",
+    "end": "00:29:57.44",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:29:57.44",
+    "end": "00:29:59.52",
+    "text": "STUDENT: So can I ask you a question? [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:29:59.52",
+    "end": "00:30:01.33",
+    "text": "PROFESSOR: Sure."
+  },
+  {
+
+    "begin": "00:30:01.33",
+    "end": "00:30:03.66",
+    "text": "STUDENT: I got a little bit confused."
+  },
+  {
+
+    "begin": "00:30:03.66",
+    "end": "00:30:05.92",
+    "text": "You already took a derivative-- sorry,"
+  },
+  {
+
+    "begin": "00:30:05.92",
+    "end": "00:30:08.77",
+    "text": "you took an integral of a derivative already,"
+  },
+  {
+
+    "begin": "00:30:08.77",
+    "end": "00:30:12.01",
+    "text": "and then you're taking another integral of the integral"
+  },
+  {
+
+    "begin": "00:30:12.01",
+    "end": "00:30:13.11",
+    "text": "you've already taken."
+  },
+  {
+
+    "begin": "00:30:13.11",
+    "end": "00:30:13.73",
+    "text": "PROFESSOR: Yes."
+  },
+  {
+
+    "begin": "00:30:13.73",
+    "end": "00:30:15.81",
+    "text": "STUDENT: So we're basically taking integral twice."
+  },
+  {
+
+    "begin": "00:30:15.81",
+    "end": "00:30:16.90",
+    "text": "PROFESSOR: Integral twice."
+  },
+  {
+
+    "begin": "00:30:16.90",
+    "end": "00:30:19.47",
+    "text": "STUDENT: So why do you need to take it for a second time?"
+  },
+  {
+
+    "begin": "00:30:19.47",
+    "end": "00:30:21.51",
+    "text": "Why can't you just take the original equation,"
+  },
+  {
+
+    "begin": "00:30:21.51",
+    "end": "00:30:24.42",
+    "text": "plug the numbers in, get an average."
+  },
+  {
+
+    "begin": "00:30:24.42",
+    "end": "00:30:26.53",
+    "text": "PROFESSOR: You can do that."
+  },
+  {
+
+    "begin": "00:30:26.53",
+    "end": "00:30:28.31",
+    "text": "That is a way to do that."
+  },
+  {
+
+    "begin": "00:30:28.31",
+    "end": "00:30:37.26",
+    "text": "If you wanted to do average population and do-- oh no,"
+  },
+  {
+
+    "begin": "00:30:37.26",
+    "end": "00:30:41.16",
+    "text": "you-- so when we took the average rate of change,"
+  },
+  {
+
+    "begin": "00:30:41.16",
+    "end": "00:30:43.61",
+    "text": "we took the population, right?"
+  },
+  {
+
+    "begin": "00:30:43.61",
+    "end": "00:30:46.55",
+    "text": "We took the integral, basically, of this rate of change"
+  },
+  {
+
+    "begin": "00:30:46.55",
+    "end": "00:30:49.14",
+    "text": "to get the population and we did the rate."
+  },
+  {
+
+    "begin": "00:30:49.14",
+    "end": "00:30:50.76",
+    "text": "STUDENT: Right, so I'm looking at that."
+  },
+  {
+
+    "begin": "00:30:50.76",
+    "end": "00:30:51.38",
+    "text": "PROFESSOR: Yes."
+  },
+  {
+
+    "begin": "00:30:51.38",
+    "end": "00:30:56.05",
+    "text": "STUDENT: So we took the integral of the rate of change."
+  },
+  {
+
+    "begin": "00:30:56.05",
+    "end": "00:30:59.79",
+    "text": "So we got P t is equal to 1/2 t squared minus 3t plus 30."
+  },
+  {
+
+    "begin": "00:30:59.79",
+    "end": "00:31:02.04",
+    "text": "PROFESSOR: Yes, and that's equal to the population."
+  },
+  {
+
+    "begin": "00:31:02.04",
+    "end": "00:31:03.83",
+    "text": "STUDENT: So to me, that gives you the original function,"
+  },
+  {
+
+    "begin": "00:31:03.83",
+    "end": "00:31:04.25",
+    "text": "basically."
+  },
+  {
+
+    "begin": "00:31:04.25",
+    "end": "00:31:05.86",
+    "text": "PROFESSOR: Mm-hm, that is the original function, yeah."
+  },
+  {
+
+    "begin": "00:31:05.86",
+    "end": "00:31:09.07",
+    "text": "STUDENT: And then you're taking that and integrating it again."
+  },
+  {
+
+    "begin": "00:31:09.07",
+    "end": "00:31:12.57",
+    "text": "PROFESSOR: Mm-hm, so that we can get the average of that"
+  },
+  {
+
+    "begin": "00:31:12.57",
+    "end": "00:31:13.51",
+    "text": "over itself."
+  },
+  {
+
+    "begin": "00:31:13.51",
+    "end": "00:31:16.01",
+    "text": "STUDENT: So why couldn't you just get the average from that?"
+  },
+  {
+
+    "begin": "00:31:16.01",
+    "end": "00:31:18.07",
+    "text": "STUDENT: Because you'd get 40."
+  },
+  {
+
+    "begin": "00:31:18.07",
+    "end": "00:31:20.09",
+    "text": "30 plus 50 is 80, divided by 2 would be 40,"
+  },
+  {
+
+    "begin": "00:31:20.09",
+    "end": "00:31:21.51",
+    "text": "so you don't get the right answer."
+  },
+  {
+
+    "begin": "00:31:21.51",
+    "end": "00:31:24.26",
+    "text": "PROFESSOR: Yeah, you would be adding the ends"
+  },
+  {
+
+    "begin": "00:31:24.26",
+    "end": "00:31:29.19",
+    "text": "and then dividing, and that wouldn't be quite right."
+  },
+  {
+
+    "begin": "00:31:29.19",
+    "end": "00:31:33.25",
+    "text": "You want to add basically all of them up along that whole thing"
+  },
+  {
+
+    "begin": "00:31:33.25",
+    "end": "00:31:35.95",
+    "text": "and divide by the whole interval."
+  },
+  {
+
+    "begin": "00:31:35.95",
+    "end": "00:31:39.48",
+    "text": "And so that's what you're doing when you take the integral,"
+  },
+  {
+
+    "begin": "00:31:39.48",
+    "end": "00:31:41.50",
+    "text": "is you're adding everything up and then"
+  },
+  {
+
+    "begin": "00:31:41.50",
+    "end": "00:31:46.23",
+    "text": "dividing to find what the average value is."
+  },
+  {
+
+    "begin": "00:31:46.23",
+    "end": "00:31:48.20",
+    "text": "STUDENT: Like the [INAUDIBLE] on something."
+  },
+  {
+
+    "begin": "00:31:48.20",
+    "end": "00:31:50.20",
+    "text": "PROFESSOR: Mm-hm, exactly."
+  },
+  {
+
+    "begin": "00:31:50.20",
+    "end": "00:31:51.87",
+    "text": "OK, any other questions?"
+  },
+  {
+
+    "begin": "00:31:51.87",
+    "end": "00:31:54.60",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:31:54.60",
+    "end": "00:31:56.97",
+    "text": "All right, this is going a lot faster than I thought."
+  },
+  {
+
+    "begin": "00:31:56.97",
+    "end": "00:31:59.61",
+    "text": "STUDENT: If you didn't have a parabolic shape in the equation"
+  },
+  {
+
+    "begin": "00:31:59.61",
+    "end": "00:32:02.88",
+    "text": "when you do part B, would you have to test all of the points?"
+  },
+  {
+
+    "begin": "00:32:02.88",
+    "end": "00:32:07.19",
+    "text": "I mean, is there a function for which it wouldn't be like B?"
+  },
+  {
+
+    "begin": "00:32:07.19",
+    "end": "00:32:09.05",
+    "text": "I guess if it was negative or something."
+  },
+  {
+
+    "begin": "00:32:09.05",
+    "end": "00:32:13.15",
+    "text": "PROFESSOR: You would want to predict the shape."
+  },
+  {
+
+    "begin": "00:32:13.15",
+    "end": "00:32:15.25",
+    "text": "You would want to predict the shape."
+  },
+  {
+
+    "begin": "00:32:15.25",
+    "end": "00:32:16.79",
+    "text": "You wouldn't be asked to do something"
+  },
+  {
+
+    "begin": "00:32:16.79",
+    "end": "00:32:19.39",
+    "text": "like that unless there was a way to do it, right."
+  },
+  {
+
+    "begin": "00:32:19.39",
+    "end": "00:32:21.55",
+    "text": "So in this it would be obvious."
+  },
+  {
+
+    "begin": "00:32:21.55",
+    "end": "00:32:26.67",
+    "text": "There might be-- if you had like a cubic function,"
+  },
+  {
+
+    "begin": "00:32:26.67",
+    "end": "00:32:28.63",
+    "text": "you would be able to do the same kind of thing."
+  },
+  {
+
+    "begin": "00:32:28.63",
+    "end": "00:32:33.06",
+    "text": "You'd be able to figure out based on doing the increasing,"
+  },
+  {
+
+    "begin": "00:32:33.06",
+    "end": "00:32:35.19",
+    "text": "decreasing, increasing, whatever, you'd"
+  },
+  {
+
+    "begin": "00:32:35.19",
+    "end": "00:32:36.91",
+    "text": "be able to figure out where you were"
+  },
+  {
+
+    "begin": "00:32:36.91",
+    "end": "00:32:39.70",
+    "text": "in the shape of the graph you're in,"
+  },
+  {
+
+    "begin": "00:32:39.70",
+    "end": "00:32:43.03",
+    "text": "and try to predict where the endpoints are."
+  },
+  {
+
+    "begin": "00:32:43.03",
+    "end": "00:32:48.55",
+    "text": "Yeah, it's very good to kind of sketch"
+  },
+  {
+
+    "begin": "00:32:48.55",
+    "end": "00:32:49.92",
+    "text": "out what kind of equations you're"
+  },
+  {
+
+    "begin": "00:32:49.92",
+    "end": "00:32:53.48",
+    "text": "dealing with to whatever extent you can."
+  },
+  {
+
+    "begin": "00:32:53.48",
+    "end": "00:32:57.09",
+    "text": "That's a very good skill to have and a tool to use."
+  },
+  {
+
+    "begin": "00:32:57.09",
+    "end": "00:33:01.24",
+    "text": "STUDENT: Yeah, I found that difficult to imagine."
+  },
+  {
+
+    "begin": "00:33:01.24",
+    "end": "00:33:03.33",
+    "text": "It's a cubic equation."
+  },
+  {
+
+    "begin": "00:33:03.33",
+    "end": "00:33:05.24",
+    "text": "You're getting an average population"
+  },
+  {
+
+    "begin": "00:33:05.24",
+    "end": "00:33:06.66",
+    "text": "from the cubic equation?"
+  },
+  {
+
+    "begin": "00:33:06.66",
+    "end": "00:33:08.10",
+    "text": "PROFESSOR: Mm-hm."
+  },
+  {
+
+    "begin": "00:33:08.10",
+    "end": "00:33:09.16",
+    "text": "This one here?"
+  },
+  {
+
+    "begin": "00:33:09.16",
+    "end": "00:33:09.98",
+    "text": "STUDENT: Yeah."
+  },
+  {
+
+    "begin": "00:33:09.98",
+    "end": "00:33:12.66",
+    "text": "PROFESSOR: Yeah, so you're taking your population,"
+  },
+  {
+
+    "begin": "00:33:12.66",
+    "end": "00:33:18.31",
+    "text": "taking in the antiderivative, and then doing it from there,"
+  },
+  {
+
+    "begin": "00:33:18.31",
+    "end": "00:33:20.31",
+    "text": "yeah."
+  },
+  {
+
+    "begin": "00:33:20.31",
+    "end": "00:33:25.77",
+    "text": "OK, so let's do a motion one."
+  },
+  {
+
+    "begin": "00:33:25.77",
+    "end": "00:33:37.28",
+    "text": "So we have an object and it's launched from 3 feet up"
+  },
+  {
+
+    "begin": "00:33:37.28",
+    "end": "00:33:47.27",
+    "text": "at an initial velocity of 66 meters per second."
+  },
+  {
+
+    "begin": "00:33:47.27",
+    "end": "00:33:51.30",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:33:51.30",
+    "end": "00:33:52.44",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:33:52.44",
+    "end": "00:33:55.67",
+    "text": "What's gravity equal to?"
+  },
+  {
+
+    "begin": "00:33:55.67",
+    "end": "00:34:00.49",
+    "text": "STUDENT: Negative 9.8 meters per second squared."
+  },
+  {
+
+    "begin": "00:34:00.49",
+    "end": "00:34:04.01",
+    "text": "PROFESSOR: OK, negative 9.8 meters per second squared."
+  },
+  {
+
+    "begin": "00:34:04.01",
+    "end": "00:34:11.25",
+    "text": "So our first question is, what's the maximum height?"
+  },
+  {
+
+    "begin": "00:34:11.25",
+    "end": "00:34:17.35",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:34:17.35",
+    "end": "00:34:19.81",
+    "text": "So what are the three things that we normally"
+  },
+  {
+
+    "begin": "00:34:19.81",
+    "end": "00:34:24.71",
+    "text": "look at when we're looking at motion, motion problems?"
+  },
+  {
+
+    "begin": "00:34:24.71",
+    "end": "00:34:28.41",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:34:28.41",
+    "end": "00:34:32.36",
+    "text": "Like what are the three types of equations we write out?"
+  },
+  {
+
+    "begin": "00:34:32.36",
+    "end": "00:34:37.32",
+    "text": "STUDENT: Acceleration and velocity, distance."
+  },
+  {
+
+    "begin": "00:34:37.32",
+    "end": "00:34:44.21",
+    "text": "PROFESSOR: Yeah, acceleration, velocity, position."
+  },
+  {
+
+    "begin": "00:34:44.21",
+    "end": "00:34:49.33",
+    "text": "OK, what's the relationship between these three?"
+  },
+  {
+
+    "begin": "00:34:49.33",
+    "end": "00:35:00.21",
+    "text": "Let's say this is h of t, v of t, a of t."
+  },
+  {
+
+    "begin": "00:35:00.21",
+    "end": "00:35:04.34",
+    "text": "STUDENT: Use the derivative of a [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:35:04.34",
+    "end": "00:35:06.65",
+    "text": "PROFESSOR: v the derivative of which one?"
+  },
+  {
+
+    "begin": "00:35:06.65",
+    "end": "00:35:07.88",
+    "text": "STUDENT: h."
+  },
+  {
+
+    "begin": "00:35:07.88",
+    "end": "00:35:08.86",
+    "text": "PROFESSOR: h."
+  },
+  {
+
+    "begin": "00:35:08.86",
+    "end": "00:35:14.47",
+    "text": "So where's the prime going to go, on v or on h?"
+  },
+  {
+
+    "begin": "00:35:14.47",
+    "end": "00:35:15.40",
+    "text": "STUDENT: On h."
+  },
+  {
+
+    "begin": "00:35:15.40",
+    "end": "00:35:16.85",
+    "text": "PROFESSOR: h, OK."
+  },
+  {
+
+    "begin": "00:35:16.85",
+    "end": "00:35:19.07",
+    "text": "And then a is the derivative of which one?"
+  },
+  {
+
+    "begin": "00:35:19.07",
+    "end": "00:35:19.84",
+    "text": "STUDENT: v."
+  },
+  {
+
+    "begin": "00:35:19.84",
+    "end": "00:35:23.30",
+    "text": "PROFESSOR: v. OK."
+  },
+  {
+
+    "begin": "00:35:23.30",
+    "end": "00:35:27.31",
+    "text": "And then for integrals, which one's which?"
+  },
+  {
+
+    "begin": "00:35:27.31",
+    "end": "00:35:30.84",
+    "text": "STUDENT: Take the integral of velocity and get h."
+  },
+  {
+
+    "begin": "00:35:30.84",
+    "end": "00:35:31.43",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:35:31.43",
+    "end": "00:35:34.77",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:35:34.77",
+    "end": "00:35:39.67",
+    "text": "STUDENT: And integral of a or acceleration to get velocity."
+  },
+  {
+
+    "begin": "00:35:39.67",
+    "end": "00:35:44.57",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:35:44.57",
+    "end": "00:35:45.84",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:35:45.84",
+    "end": "00:35:48.54",
+    "text": "So these things should help us."
+  },
+  {
+
+    "begin": "00:35:48.54",
+    "end": "00:35:52.17",
+    "text": "Where can we start very easily with what we know?"
+  },
+  {
+
+    "begin": "00:35:52.17",
+    "end": "00:35:54.63",
+    "text": "We know the initial position, we know the initial velocity,"
+  },
+  {
+
+    "begin": "00:35:54.63",
+    "end": "00:35:57.09",
+    "text": "and we know gravity."
+  },
+  {
+
+    "begin": "00:35:57.09",
+    "end": "00:35:58.25",
+    "text": "What should we start with?"
+  },
+  {
+
+    "begin": "00:35:58.25",
+    "end": "00:35:59.95",
+    "text": "What's the first equation we know?"
+  },
+  {
+
+    "begin": "00:35:59.95",
+    "end": "00:36:01.43",
+    "text": "STUDENT: Go with gravity."
+  },
+  {
+
+    "begin": "00:36:01.43",
+    "end": "00:36:04.43",
+    "text": "PROFESSOR: OK, so we know that the acceleration a of t"
+  },
+  {
+
+    "begin": "00:36:04.43",
+    "end": "00:36:06.23",
+    "text": "is equal to--"
+  },
+  {
+
+    "begin": "00:36:06.23",
+    "end": "00:36:08.09",
+    "text": "STUDENT: Minus 9.8"
+  },
+  {
+
+    "begin": "00:36:08.09",
+    "end": "00:36:10.69",
+    "text": "PROFESSOR: --minus 9.8."
+  },
+  {
+
+    "begin": "00:36:10.69",
+    "end": "00:36:12.71",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:36:12.71",
+    "end": "00:36:16.12",
+    "text": "What can we do now?"
+  },
+  {
+
+    "begin": "00:36:16.12",
+    "end": "00:36:18.57",
+    "text": "STUDENT: Take the integral and you'll have the velocity."
+  },
+  {
+
+    "begin": "00:36:18.57",
+    "end": "00:36:20.82",
+    "text": "PROFESSOR: So if we take the integral of this"
+  },
+  {
+
+    "begin": "00:36:20.82",
+    "end": "00:36:24.36",
+    "text": "we'll get the velocity, OK?"
+  },
+  {
+
+    "begin": "00:36:24.36",
+    "end": "00:36:27.87",
+    "text": "So what's the integral of negative 9.8 dt?"
+  },
+  {
+
+    "begin": "00:36:27.87",
+    "end": "00:36:30.30",
+    "text": "STUDENT: Negative 9.8t."
+  },
+  {
+
+    "begin": "00:36:30.30",
+    "end": "00:36:31.43",
+    "text": "PROFESSOR: Negative 9.8t."
+  },
+  {
+
+    "begin": "00:36:31.43",
+    "end": "00:36:32.48",
+    "text": "STUDENT: Plus c."
+  },
+  {
+
+    "begin": "00:36:32.48",
+    "end": "00:36:33.86",
+    "text": "PROFESSOR: Plus c."
+  },
+  {
+
+    "begin": "00:36:33.86",
+    "end": "00:36:36.19",
+    "text": "And this equals the velocity."
+  },
+  {
+
+    "begin": "00:36:36.19",
+    "end": "00:36:40.29",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:36:40.29",
+    "end": "00:36:45.62",
+    "text": "So can we get a better equation for velocity than negative 9.8t"
+  },
+  {
+
+    "begin": "00:36:45.62",
+    "end": "00:36:46.32",
+    "text": "plus c?"
+  },
+  {
+
+    "begin": "00:36:46.32",
+    "end": "00:36:49.69",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:36:49.69",
+    "end": "00:36:51.02",
+    "text": "STUDENT: You can solve for c."
+  },
+  {
+
+    "begin": "00:36:51.02",
+    "end": "00:36:52.40",
+    "text": "PROFESSOR: We can solve for c."
+  },
+  {
+
+    "begin": "00:36:52.40",
+    "end": "00:36:53.32",
+    "text": "And how do we do that?"
+  },
+  {
+
+    "begin": "00:36:53.32",
+    "end": "00:36:56.48",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:36:56.48",
+    "end": "00:36:59.57",
+    "text": "STUDENT: Starting from 0, or--"
+  },
+  {
+
+    "begin": "00:36:59.57",
+    "end": "00:37:00.28",
+    "text": "PROFESSOR: Close."
+  },
+  {
+
+    "begin": "00:37:00.28",
+    "end": "00:37:01.73",
+    "text": "STUDENT: v of 0 equals [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:37:01.73",
+    "end": "00:37:02.58",
+    "text": "PROFESSOR: Yes."
+  },
+  {
+
+    "begin": "00:37:02.58",
+    "end": "00:37:05.93",
+    "text": "v of 0 equals what?"
+  },
+  {
+
+    "begin": "00:37:05.93",
+    "end": "00:37:08.58",
+    "text": "STUDENT: Negative 9.8 plus c."
+  },
+  {
+
+    "begin": "00:37:08.58",
+    "end": "00:37:10.54",
+    "text": "PROFESSOR: Negative 9.8?"
+  },
+  {
+
+    "begin": "00:37:10.54",
+    "end": "00:37:11.39",
+    "text": "STUDENT: t plus c."
+  },
+  {
+
+    "begin": "00:37:11.39",
+    "end": "00:37:14.48",
+    "text": "PROFESSOR: t plus c, and the t is 0, yes?"
+  },
+  {
+
+    "begin": "00:37:14.48",
+    "end": "00:37:15.44",
+    "text": "STUDENT: Yes."
+  },
+  {
+
+    "begin": "00:37:15.44",
+    "end": "00:37:16.03",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:37:16.03",
+    "end": "00:37:18.41",
+    "text": "STUDENT: And initial velocity is 66."
+  },
+  {
+
+    "begin": "00:37:18.41",
+    "end": "00:37:19.49",
+    "text": "PROFESSOR: And this is 66."
+  },
+  {
+
+    "begin": "00:37:19.49",
+    "end": "00:37:20.68",
+    "text": "Great."
+  },
+  {
+
+    "begin": "00:37:20.68",
+    "end": "00:37:27.86",
+    "text": "OK, so we have 0 plus c is 66, so c equals 66."
+  },
+  {
+
+    "begin": "00:37:27.86",
+    "end": "00:37:31.11",
+    "text": "So what's the full equation of our velocity?"
+  },
+  {
+
+    "begin": "00:37:31.11",
+    "end": "00:37:35.53",
+    "text": "STUDENT: Negative 9.8t plus 66."
+  },
+  {
+
+    "begin": "00:37:35.53",
+    "end": "00:37:37.39",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:37:37.39",
+    "end": "00:37:40.82",
+    "text": "All right, so we're getting closer to an equation"
+  },
+  {
+
+    "begin": "00:37:40.82",
+    "end": "00:37:41.34",
+    "text": "for height."
+  },
+  {
+
+    "begin": "00:37:41.34",
+    "end": "00:37:48.41",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:37:48.41",
+    "end": "00:37:49.91",
+    "text": "What's the next thing we need to do?"
+  },
+  {
+
+    "begin": "00:37:49.91",
+    "end": "00:37:52.94",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:37:52.94",
+    "end": "00:37:59.06",
+    "text": "Similar to what we did before, the integral of v t dt"
+  },
+  {
+
+    "begin": "00:37:59.06",
+    "end": "00:38:01.68",
+    "text": "will give us?"
+  },
+  {
+
+    "begin": "00:38:01.68",
+    "end": "00:38:02.74",
+    "text": "STUDENT: Acceleration."
+  },
+  {
+
+    "begin": "00:38:02.74",
+    "end": "00:38:04.62",
+    "text": "Oh, sorry, I mean distance."
+  },
+  {
+
+    "begin": "00:38:04.62",
+    "end": "00:38:05.78",
+    "text": "PROFESSOR: The height, yeah."
+  },
+  {
+
+    "begin": "00:38:05.78",
+    "end": "00:38:06.74",
+    "text": "STUDENT: Height."
+  },
+  {
+
+    "begin": "00:38:06.74",
+    "end": "00:38:08.95",
+    "text": "PROFESSOR: Or the position, whatever you want to say."
+  },
+  {
+
+    "begin": "00:38:08.95",
+    "end": "00:38:10.48",
+    "text": "h of t."
+  },
+  {
+
+    "begin": "00:38:10.48",
+    "end": "00:38:21.20",
+    "text": "OK, so let's take the integral of negative 9.8t plus 66 dt."
+  },
+  {
+
+    "begin": "00:38:21.20",
+    "end": "00:38:22.25",
+    "text": "And this will be h of t."
+  },
+  {
+
+    "begin": "00:38:22.25",
+    "end": "00:38:24.92",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:38:24.92",
+    "end": "00:38:27.89",
+    "text": "Any questions so far?"
+  },
+  {
+
+    "begin": "00:38:27.89",
+    "end": "00:38:30.45",
+    "text": "All right, so what is this?"
+  },
+  {
+
+    "begin": "00:38:30.45",
+    "end": "00:38:32.91",
+    "text": "What's the integral of this?"
+  },
+  {
+
+    "begin": "00:38:32.91",
+    "end": "00:38:35.15",
+    "text": "STUDENT: 4.9?"
+  },
+  {
+
+    "begin": "00:38:35.15",
+    "end": "00:38:36.08",
+    "text": "PROFESSOR: Close."
+  },
+  {
+
+    "begin": "00:38:36.08",
+    "end": "00:38:37.83",
+    "text": "STUDENT: t squared."
+  },
+  {
+
+    "begin": "00:38:37.83",
+    "end": "00:38:38.66",
+    "text": "PROFESSOR: Negative."
+  },
+  {
+
+    "begin": "00:38:38.66",
+    "end": "00:38:39.41",
+    "text": "STUDENT: Negative."
+  },
+  {
+
+    "begin": "00:38:39.41",
+    "end": "00:38:40.92",
+    "text": "PROFESSOR: 4.9 t squared."
+  },
+  {
+
+    "begin": "00:38:40.92",
+    "end": "00:38:44.07",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:38:44.07",
+    "end": "00:38:45.94",
+    "text": "STUDENT: Plus 66t."
+  },
+  {
+
+    "begin": "00:38:45.94",
+    "end": "00:38:47.84",
+    "text": "PROFESSOR: 66t."
+  },
+  {
+
+    "begin": "00:38:47.84",
+    "end": "00:38:48.51",
+    "text": "STUDENT: Plus c."
+  },
+  {
+
+    "begin": "00:38:48.51",
+    "end": "00:38:53.31",
+    "text": "PROFESSOR: Plus c equals h of t."
+  },
+  {
+
+    "begin": "00:38:53.31",
+    "end": "00:38:54.14",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:38:54.14",
+    "end": "00:38:55.60",
+    "text": "Again, can we get a better equation"
+  },
+  {
+
+    "begin": "00:38:55.60",
+    "end": "00:38:59.55",
+    "text": "for this that doesn't have a c in it?"
+  },
+  {
+
+    "begin": "00:38:59.55",
+    "end": "00:39:03.01",
+    "text": "STUDENT: h of t minus [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:39:03.01",
+    "end": "00:39:09.04",
+    "text": "PROFESSOR: We know h of 0 is 3, because at time 0 it's at 3."
+  },
+  {
+
+    "begin": "00:39:09.04",
+    "end": "00:39:14.56",
+    "text": "So we have 3, which is equal to negative 4.9 times 0"
+  },
+  {
+
+    "begin": "00:39:14.56",
+    "end": "00:39:20.84",
+    "text": "squared plus 66 times 0 plus c."
+  },
+  {
+
+    "begin": "00:39:20.84",
+    "end": "00:39:25.32",
+    "text": "So we have 3 is equal to 0 plus 0 plus c."
+  },
+  {
+
+    "begin": "00:39:25.32",
+    "end": "00:39:27.83",
+    "text": "c is equal to 3."
+  },
+  {
+
+    "begin": "00:39:27.83",
+    "end": "00:39:29.96",
+    "text": "OK, so what's h of t?"
+  },
+  {
+
+    "begin": "00:39:29.96",
+    "end": "00:39:34.82",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:39:34.82",
+    "end": "00:39:41.62",
+    "text": "STUDENT: Negative 4.9 t squared plus 66t plus 3."
+  },
+  {
+
+    "begin": "00:39:41.62",
+    "end": "00:39:43.60",
+    "text": "PROFESSOR: Great."
+  },
+  {
+
+    "begin": "00:39:43.60",
+    "end": "00:39:48.80",
+    "text": "OK, so now what do we do?"
+  },
+  {
+
+    "begin": "00:39:48.80",
+    "end": "00:39:50.02",
+    "text": "What are we looking for?"
+  },
+  {
+
+    "begin": "00:39:50.02",
+    "end": "00:39:51.73",
+    "text": "STUDENT: You're looking for the position."
+  },
+  {
+
+    "begin": "00:39:51.73",
+    "end": "00:39:54.50",
+    "text": "PROFESSOR: We're looking for the maximum height."
+  },
+  {
+
+    "begin": "00:39:54.50",
+    "end": "00:39:58.98",
+    "text": "So how do we find the maximum of this equation?"
+  },
+  {
+
+    "begin": "00:39:58.98",
+    "end": "00:40:00.70",
+    "text": "How do we find the maximum?"
+  },
+  {
+
+    "begin": "00:40:00.70",
+    "end": "00:40:02.07",
+    "text": "STUDENT: You take the derivative."
+  },
+  {
+
+    "begin": "00:40:02.07",
+    "end": "00:40:03.58",
+    "text": "PROFESSOR: We take the derivative."
+  },
+  {
+
+    "begin": "00:40:03.58",
+    "end": "00:40:06.06",
+    "text": "So we already have the derivative, yes?"
+  },
+  {
+
+    "begin": "00:40:06.06",
+    "end": "00:40:08.17",
+    "text": "Where is that?"
+  },
+  {
+
+    "begin": "00:40:08.17",
+    "end": "00:40:09.56",
+    "text": "STUDENT: [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:40:09.56",
+    "end": "00:40:10.89",
+    "text": "PROFESSOR: The velocity."
+  },
+  {
+
+    "begin": "00:40:10.89",
+    "end": "00:40:16.21",
+    "text": "So we have negative 9.8t plus 66 is the derivative of h of t."
+  },
+  {
+
+    "begin": "00:40:16.21",
+    "end": "00:40:18.59",
+    "text": "And what do we do with this to find the max height?"
+  },
+  {
+
+    "begin": "00:40:18.59",
+    "end": "00:40:22.86",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:40:22.86",
+    "end": "00:40:23.99",
+    "text": "STUDENT: Set it equal to 0."
+  },
+  {
+
+    "begin": "00:40:23.99",
+    "end": "00:40:25.20",
+    "text": "PROFESSOR: Set it equal to 0."
+  },
+  {
+
+    "begin": "00:40:25.20",
+    "end": "00:40:27.69",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:40:27.69",
+    "end": "00:40:31.30",
+    "text": "OK, how do we do that?"
+  },
+  {
+
+    "begin": "00:40:31.30",
+    "end": "00:40:36.22",
+    "text": "Negative 9.8t equals negative 66."
+  },
+  {
+
+    "begin": "00:40:36.22",
+    "end": "00:40:42.91",
+    "text": "So t equals negative 66 over negative 9.8,"
+  },
+  {
+
+    "begin": "00:40:42.91",
+    "end": "00:40:51.76",
+    "text": "which is approximately 6.7."
+  },
+  {
+
+    "begin": "00:40:51.76",
+    "end": "00:40:57.47",
+    "text": "OK, I guess we'll go-- everyone's done with this, yes?"
+  },
+  {
+
+    "begin": "00:40:57.47",
+    "end": "00:41:02.86",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:41:02.86",
+    "end": "00:41:04.77",
+    "text": "OK, what do we do now?"
+  },
+  {
+
+    "begin": "00:41:04.77",
+    "end": "00:41:10.74",
+    "text": "STUDENT: You take 6.7 and plug it into h of t."
+  },
+  {
+
+    "begin": "00:41:10.74",
+    "end": "00:41:12.95",
+    "text": "PROFESSOR: So this is-- which is on the bottom, which"
+  },
+  {
+
+    "begin": "00:41:12.95",
+    "end": "00:41:15.95",
+    "text": "is on the top?"
+  },
+  {
+
+    "begin": "00:41:15.95",
+    "end": "00:41:17.03",
+    "text": "v or h?"
+  },
+  {
+
+    "begin": "00:41:17.03",
+    "end": "00:41:19.21",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:41:19.21",
+    "end": "00:41:20.38",
+    "text": "STUDENT: v is on the bottom."
+  },
+  {
+
+    "begin": "00:41:20.38",
+    "end": "00:41:24.04",
+    "text": "PROFESSOR: v is on the bottom and h is on the top, right?"
+  },
+  {
+
+    "begin": "00:41:24.04",
+    "end": "00:41:26.20",
+    "text": "Just like we usually have f on the top"
+  },
+  {
+
+    "begin": "00:41:26.20",
+    "end": "00:41:28.39",
+    "text": "and f prime on the bottom."
+  },
+  {
+
+    "begin": "00:41:28.39",
+    "end": "00:41:31.28",
+    "text": "So we need something that's lower than 6.7."
+  },
+  {
+
+    "begin": "00:41:31.28",
+    "end": "00:41:32.13",
+    "text": "STUDENT: 0 works."
+  },
+  {
+
+    "begin": "00:41:32.13",
+    "end": "00:41:34.65",
+    "text": "PROFESSOR: 0 works, so v of 0."
+  },
+  {
+
+    "begin": "00:41:34.65",
+    "end": "00:41:37.51",
+    "text": "We already know this one, actually, right?"
+  },
+  {
+
+    "begin": "00:41:37.51",
+    "end": "00:41:41.53",
+    "text": "v of 0 was 66."
+  },
+  {
+
+    "begin": "00:41:41.53",
+    "end": "00:41:42.75",
+    "text": "So this is?"
+  },
+  {
+
+    "begin": "00:41:42.75",
+    "end": "00:41:43.50",
+    "text": "STUDENT: Positive."
+  },
+  {
+
+    "begin": "00:41:43.50",
+    "end": "00:41:44.36",
+    "text": "PROFESSOR: Positive."
+  },
+  {
+
+    "begin": "00:41:44.36",
+    "end": "00:41:45.42",
+    "text": "So h is?"
+  },
+  {
+
+    "begin": "00:41:45.42",
+    "end": "00:41:46.69",
+    "text": "STUDENT: Going up."
+  },
+  {
+
+    "begin": "00:41:46.69",
+    "end": "00:41:48.52",
+    "text": "PROFESSOR: Going up."
+  },
+  {
+
+    "begin": "00:41:48.52",
+    "end": "00:41:50.70",
+    "text": "And then what should we test on this side?"
+  },
+  {
+
+    "begin": "00:41:50.70",
+    "end": "00:41:51.85",
+    "text": "STUDENT: 10."
+  },
+  {
+
+    "begin": "00:41:51.85",
+    "end": "00:41:52.43",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:41:52.43",
+    "end": "00:41:55.08",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:41:55.08",
+    "end": "00:42:02.78",
+    "text": "So we have negative 9.8 times 10 plus 66, so that's negative 98"
+  },
+  {
+
+    "begin": "00:42:02.78",
+    "end": "00:42:03.83",
+    "text": "plus 66."
+  },
+  {
+
+    "begin": "00:42:03.83",
+    "end": "00:42:10.23",
+    "text": "That's a negative number, so h is going down."
+  },
+  {
+
+    "begin": "00:42:10.23",
+    "end": "00:42:13.88",
+    "text": "OK, so what do we know from this?"
+  },
+  {
+
+    "begin": "00:42:13.88",
+    "end": "00:42:14.87",
+    "text": "STUDENT: 6.7 is--"
+  },
+  {
+
+    "begin": "00:42:14.87",
+    "end": "00:42:20.01",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:42:20.01",
+    "end": "00:42:20.93",
+    "text": "PROFESSOR: Is at what?"
+  },
+  {
+
+    "begin": "00:42:20.93",
+    "end": "00:42:24.55",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:42:24.55",
+    "end": "00:42:27.17",
+    "text": "STUDENT: Don't you have to plug in 6.7 as the time [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:42:27.17",
+    "end": "00:42:28.36",
+    "text": "PROFESSOR: Yep."
+  },
+  {
+
+    "begin": "00:42:28.36",
+    "end": "00:42:30.22",
+    "text": "But what do I know just from this is?"
+  },
+  {
+
+    "begin": "00:42:30.22",
+    "end": "00:42:32.89",
+    "text": "The max height happens at what time?"
+  },
+  {
+
+    "begin": "00:42:32.89",
+    "end": "00:42:33.76",
+    "text": "STUDENT: 6.7."
+  },
+  {
+
+    "begin": "00:42:33.76",
+    "end": "00:42:37.05",
+    "text": "PROFESSOR: At approximately 6.7, which is negative 66"
+  },
+  {
+
+    "begin": "00:42:37.05",
+    "end": "00:42:40.62",
+    "text": "over-- 66 over 9.8."
+  },
+  {
+
+    "begin": "00:42:40.62",
+    "end": "00:42:42.30",
+    "text": "If you round in the way that I did,"
+  },
+  {
+
+    "begin": "00:42:42.30",
+    "end": "00:42:47.53",
+    "text": "you have to keep your little approximation sign."
+  },
+  {
+
+    "begin": "00:42:47.53",
+    "end": "00:42:51.89",
+    "text": "OK, so the next max height is here, or at this time."
+  },
+  {
+
+    "begin": "00:42:51.89",
+    "end": "00:42:54.64",
+    "text": "And then if we want to find out how high it"
+  },
+  {
+
+    "begin": "00:42:54.64",
+    "end": "00:42:57.08",
+    "text": "is, which is what the question asks for, we plug it back"
+  },
+  {
+
+    "begin": "00:42:57.08",
+    "end": "00:43:00.08",
+    "text": "into h of t."
+  },
+  {
+
+    "begin": "00:43:00.08",
+    "end": "00:43:07.21",
+    "text": "So we have h of 66 over 9.8 is equal to-- where's h?"
+  },
+  {
+
+    "begin": "00:43:07.21",
+    "end": "00:43:15.40",
+    "text": "Negative 4.9 times 66 over 9.8 squared plus 66 times"
+  },
+  {
+
+    "begin": "00:43:15.40",
+    "end": "00:43:20.61",
+    "text": "66 over 9.8 plus 3."
+  },
+  {
+
+    "begin": "00:43:20.61",
+    "end": "00:43:33.06",
+    "text": "And the answer to this is approximately 425.71 meters,"
+  },
+  {
+
+    "begin": "00:43:33.06",
+    "end": "00:43:33.56",
+    "text": "I believe."
+  },
+  {
+
+    "begin": "00:43:33.56",
+    "end": "00:43:38.25",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:43:38.25",
+    "end": "00:43:42.41",
+    "text": "OK, any questions on that?"
+  },
+  {
+
+    "begin": "00:43:42.41",
+    "end": "00:43:46.57",
+    "text": "So when we got to this point, when we found-- well,"
+  },
+  {
+
+    "begin": "00:43:46.57",
+    "end": "00:43:47.82",
+    "text": "it's not on the board anymore."
+  },
+  {
+
+    "begin": "00:43:47.82",
+    "end": "00:43:51.02",
+    "text": "When we found the velocity, we could"
+  },
+  {
+
+    "begin": "00:43:51.02",
+    "end": "00:43:52.68",
+    "text": "have stopped there, right?"
+  },
+  {
+
+    "begin": "00:43:52.68",
+    "end": "00:43:57.76",
+    "text": "And then from that, done this section and found out what time"
+  },
+  {
+
+    "begin": "00:43:57.76",
+    "end": "00:43:59.40",
+    "text": "the max would be."
+  },
+  {
+
+    "begin": "00:43:59.40",
+    "end": "00:44:01.79",
+    "text": "But we still needed to actually find"
+  },
+  {
+
+    "begin": "00:44:01.79",
+    "end": "00:44:06.99",
+    "text": "the equation for h to actually solve the real height."
+  },
+  {
+
+    "begin": "00:44:06.99",
+    "end": "00:44:09.45",
+    "text": "So that's why when we did the velocity I didn't stop there,"
+  },
+  {
+
+    "begin": "00:44:09.45",
+    "end": "00:44:12.51",
+    "text": "I actually found h of t and plugged in,"
+  },
+  {
+
+    "begin": "00:44:12.51",
+    "end": "00:44:15.83",
+    "text": "because you're going to have to do it either way."
+  },
+  {
+
+    "begin": "00:44:15.83",
+    "end": "00:44:18.22",
+    "text": "OK, so more questions about this."
+  },
+  {
+
+    "begin": "00:44:18.22",
+    "end": "00:44:23.48",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:44:23.48",
+    "end": "00:44:27.91",
+    "text": "When did the object hit the ground?"
+  },
+  {
+
+    "begin": "00:44:27.91",
+    "end": "00:44:36.23",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:44:36.23",
+    "end": "00:44:37.23",
+    "text": "What are we solving for?"
+  },
+  {
+
+    "begin": "00:44:37.23",
+    "end": "00:44:40.12",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:44:40.12",
+    "end": "00:44:42.00",
+    "text": "STUDENT: h of t is 0."
+  },
+  {
+
+    "begin": "00:44:42.00",
+    "end": "00:44:43.12",
+    "text": "PROFESSOR: h of t equals 0."
+  },
+  {
+
+    "begin": "00:44:43.12",
+    "end": "00:44:46.15",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:44:46.15",
+    "end": "00:44:47.67",
+    "text": "What was h of t?"
+  },
+  {
+
+    "begin": "00:44:47.67",
+    "end": "00:44:51.23",
+    "text": "Negative 4.9 t squared--"
+  },
+  {
+
+    "begin": "00:44:51.23",
+    "end": "00:44:52.61",
+    "text": "STUDENT: Plus 66t."
+  },
+  {
+
+    "begin": "00:44:52.61",
+    "end": "00:44:57.46",
+    "text": "PROFESSOR: Plus 66t plus 3 equals 0."
+  },
+  {
+
+    "begin": "00:44:57.46",
+    "end": "00:44:58.77",
+    "text": "OK, who can factor that?"
+  },
+  {
+
+    "begin": "00:44:58.77",
+    "end": "00:45:01.82",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:45:01.82",
+    "end": "00:45:03.15",
+    "text": "What are we going to do instead?"
+  },
+  {
+
+    "begin": "00:45:03.15",
+    "end": "00:45:05.99",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:45:05.99",
+    "end": "00:45:07.42",
+    "text": "STUDENT: Quadratic equation."
+  },
+  {
+
+    "begin": "00:45:07.42",
+    "end": "00:45:09.91",
+    "text": "PROFESSOR: Yep, so what is it?"
+  },
+  {
+
+    "begin": "00:45:09.91",
+    "end": "00:45:12.37",
+    "text": "STUDENT: Minus b plus or minus square root of b"
+  },
+  {
+
+    "begin": "00:45:12.37",
+    "end": "00:45:19.79",
+    "text": "squared minus 4ac all over 2a."
+  },
+  {
+
+    "begin": "00:45:19.79",
+    "end": "00:45:22.49",
+    "text": "PROFESSOR: OK, so let's do it out really quick."
+  },
+  {
+
+    "begin": "00:45:22.49",
+    "end": "00:45:25.76",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:45:25.76",
+    "end": "00:45:36.06",
+    "text": "Negative 66 plus or minus minus 4 times negative 4.9"
+  },
+  {
+
+    "begin": "00:45:36.06",
+    "end": "00:45:41.38",
+    "text": "times 3, all over 2 times--"
+  },
+  {
+
+    "begin": "00:45:41.38",
+    "end": "00:45:42.25",
+    "text": "STUDENT: Negative 4.9"
+  },
+  {
+
+    "begin": "00:45:42.25",
+    "end": "00:45:45.49",
+    "text": "PROFESSOR: --negative 4.9."
+  },
+  {
+
+    "begin": "00:45:45.49",
+    "end": "00:46:05.04",
+    "text": "OK, spoiler: the answer to this is approximately 13.51 seconds."
+  },
+  {
+
+    "begin": "00:46:05.04",
+    "end": "00:46:13.54",
+    "text": "Now, this one someone's going to have to do on the calculator"
+  },
+  {
+
+    "begin": "00:46:13.54",
+    "end": "00:46:18.14",
+    "text": "because I didn't solve this one."
+  },
+  {
+
+    "begin": "00:46:18.14",
+    "end": "00:46:25.70",
+    "text": "How fast was it going when it hit the ground?"
+  },
+  {
+
+    "begin": "00:46:25.70",
+    "end": "00:46:30.81",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:46:30.81",
+    "end": "00:46:34.26",
+    "text": "So now what do we need to know?"
+  },
+  {
+
+    "begin": "00:46:34.26",
+    "end": "00:46:36.16",
+    "text": "STUDENT: You need to know the velocity at--"
+  },
+  {
+
+    "begin": "00:46:36.16",
+    "end": "00:46:38.08",
+    "text": "STUDENT: 13.51 seconds."
+  },
+  {
+
+    "begin": "00:46:38.08",
+    "end": "00:46:40.98",
+    "text": "PROFESSOR: Velocity at 13.51."
+  },
+  {
+
+    "begin": "00:46:40.98",
+    "end": "00:46:43.90",
+    "text": "So to solve this we would use our velocity equation, which"
+  },
+  {
+
+    "begin": "00:46:43.90",
+    "end": "00:46:55.18",
+    "text": "was negative 9.8 times 13.51 plus 66."
+  },
+  {
+
+    "begin": "00:46:55.18",
+    "end": "00:46:56.55",
+    "text": "So can anyone do that real quick?"
+  },
+  {
+
+    "begin": "00:46:56.55",
+    "end": "00:47:00.36",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:47:00.36",
+    "end": "00:47:03.36",
+    "text": "Now, the main thing to think about when you're-- or one"
+  },
+  {
+
+    "begin": "00:47:03.36",
+    "end": "00:47:05.78",
+    "text": "of the things to think about when you have a question like"
+  },
+  {
+
+    "begin": "00:47:05.78",
+    "end": "00:47:08.29",
+    "text": "this is to predict what your answer will look like,"
+  },
+  {
+
+    "begin": "00:47:08.29",
+    "end": "00:47:10.74",
+    "text": "so that when you get an answer you can decide if it makes"
+  },
+  {
+
+    "begin": "00:47:10.74",
+    "end": "00:47:13.54",
+    "text": "sense or not."
+  },
+  {
+
+    "begin": "00:47:13.54",
+    "end": "00:47:15.79",
+    "text": "Am I expecting a positive or negative answer?"
+  },
+  {
+
+    "begin": "00:47:15.79",
+    "end": "00:47:16.75",
+    "text": "STUDENT: Negative."
+  },
+  {
+
+    "begin": "00:47:16.75",
+    "end": "00:47:17.37",
+    "text": "PROFESSOR: Why?"
+  },
+  {
+
+    "begin": "00:47:17.37",
+    "end": "00:47:19.29",
+    "text": "Why are expecting a negative answer?"
+  },
+  {
+
+    "begin": "00:47:19.29",
+    "end": "00:47:19.76",
+    "text": "STUDENT: Because it's traveling down."
+  },
+  {
+
+    "begin": "00:47:19.76",
+    "end": "00:47:21.59",
+    "text": "PROFESSOR: Because it's traveling downwards."
+  },
+  {
+
+    "begin": "00:47:21.59",
+    "end": "00:47:23.77",
+    "text": "It's hitting the ground from up high to low,"
+  },
+  {
+
+    "begin": "00:47:23.77",
+    "end": "00:47:25.56",
+    "text": "so the velocity is supposed to be negative."
+  },
+  {
+
+    "begin": "00:47:25.56",
+    "end": "00:47:27.86",
+    "text": "So that's good, and if we don't get a negative answer"
+  },
+  {
+
+    "begin": "00:47:27.86",
+    "end": "00:47:29.74",
+    "text": "we know we've done something wrong."
+  },
+  {
+
+    "begin": "00:47:29.74",
+    "end": "00:47:31.55",
+    "text": "If we don't get a negative answer here,"
+  },
+  {
+
+    "begin": "00:47:31.55",
+    "end": "00:47:36.11",
+    "text": "we might also know that our previous answer might be wrong"
+  },
+  {
+
+    "begin": "00:47:36.11",
+    "end": "00:47:37.03",
+    "text": "too, right?"
+  },
+  {
+
+    "begin": "00:47:37.03",
+    "end": "00:47:39.77",
+    "text": "Because we would expect that this is the correct thing"
+  },
+  {
+
+    "begin": "00:47:39.77",
+    "end": "00:47:41.02",
+    "text": "to plug in."
+  },
+  {
+
+    "begin": "00:47:41.02",
+    "end": "00:47:44.11",
+    "text": "So we might have a wrong equation for velocity,"
+  },
+  {
+
+    "begin": "00:47:44.11",
+    "end": "00:47:49.80",
+    "text": "or we might have the wrong ground point or whatever"
+  },
+  {
+
+    "begin": "00:47:49.80",
+    "end": "00:47:51.27",
+    "text": "you want to say."
+  },
+  {
+
+    "begin": "00:47:51.27",
+    "end": "00:47:52.05",
+    "text": "So what was this?"
+  },
+  {
+
+    "begin": "00:47:52.05",
+    "end": "00:47:54.59",
+    "text": "STUDENT: Negative 66.398."
+  },
+  {
+
+    "begin": "00:47:54.59",
+    "end": "00:47:57.83",
+    "text": "PROFESSOR: Negative 66.398?"
+  },
+  {
+
+    "begin": "00:47:57.83",
+    "end": "00:47:58.95",
+    "text": "STUDENT: That's what I got."
+  },
+  {
+
+    "begin": "00:47:58.95",
+    "end": "00:47:59.91",
+    "text": "PROFESSOR: Is that what you got?"
+  },
+  {
+
+    "begin": "00:47:59.91",
+    "end": "00:48:00.68",
+    "text": "Great."
+  },
+  {
+
+    "begin": "00:48:00.68",
+    "end": "00:48:03.76",
+    "text": "So that's probably an approximation as well."
+  },
+  {
+
+    "begin": "00:48:03.76",
+    "end": "00:48:04.86",
+    "text": "Great."
+  },
+  {
+
+    "begin": "00:48:04.86",
+    "end": "00:48:05.84",
+    "text": "Questions on that?"
+  },
+  {
+
+    "begin": "00:48:05.84",
+    "end": "00:48:09.55",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:48:09.55",
+    "end": "00:48:10.26",
+    "text": "No?"
+  },
+  {
+
+    "begin": "00:48:10.26",
+    "end": "00:48:12.00",
+    "text": "STUDENT: Meters per second?"
+  },
+  {
+
+    "begin": "00:48:12.00",
+    "end": "00:48:12.96",
+    "text": "PROFESSOR: You got one?"
+  },
+  {
+
+    "begin": "00:48:12.96",
+    "end": "00:48:14.11",
+    "text": "STUDENT: Meters per second."
+  },
+  {
+
+    "begin": "00:48:14.11",
+    "end": "00:48:15.53",
+    "text": "PROFESSOR: Yes, meters per second."
+  },
+  {
+
+    "begin": "00:48:15.53",
+    "end": "00:48:17.43",
+    "text": "Great, great, great."
+  },
+  {
+
+    "begin": "00:48:17.43",
+    "end": "00:48:19.14",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:48:19.14",
+    "end": "00:48:22.86",
+    "text": "And then this time over here that we found was in seconds"
+  },
+  {
+
+    "begin": "00:48:22.86",
+    "end": "00:48:26.24",
+    "text": "and we did the seconds over here."
+  },
+  {
+
+    "begin": "00:48:26.24",
+    "end": "00:48:27.03",
+    "text": "Good."
+  },
+  {
+
+    "begin": "00:48:27.03",
+    "end": "00:48:28.47",
+    "text": "Was there another question?"
+  },
+  {
+
+    "begin": "00:48:28.47",
+    "end": "00:48:30.05",
+    "text": "STUDENT: Sort of a practical question."
+  },
+  {
+
+    "begin": "00:48:30.05",
+    "end": "00:48:30.34",
+    "text": "PROFESSOR: Sure."
+  },
+  {
+
+    "begin": "00:48:30.34",
+    "end": "00:48:32.05",
+    "text": "STUDENT: If you're on the exam and you're"
+  },
+  {
+
+    "begin": "00:48:32.05",
+    "end": "00:48:35.11",
+    "text": "doing your quadratic formula and you're running out of time,"
+  },
+  {
+
+    "begin": "00:48:35.11",
+    "end": "00:48:40.01",
+    "text": "just get rid of that minus and just leave it like that."
+  },
+  {
+
+    "begin": "00:48:40.01",
+    "end": "00:48:41.34",
+    "text": "PROFESSOR: Get rid of the minus?"
+  },
+  {
+
+    "begin": "00:48:41.34",
+    "end": "00:48:45.11",
+    "text": "STUDENT: Because that gives you a plus and a minus, right?"
+  },
+  {
+
+    "begin": "00:48:45.11",
+    "end": "00:48:46.24",
+    "text": "PROFESSOR: This part?"
+  },
+  {
+
+    "begin": "00:48:46.24",
+    "end": "00:48:47.36",
+    "text": "STUDENT: Well, there's two."
+  },
+  {
+
+    "begin": "00:48:47.36",
+    "end": "00:48:49.95",
+    "text": "The quadratic gives you a negative and a positive number."
+  },
+  {
+
+    "begin": "00:48:49.95",
+    "end": "00:48:52.16",
+    "text": "Of course, it's only the positive number that counts,"
+  },
+  {
+
+    "begin": "00:48:52.16",
+    "end": "00:48:55.76",
+    "text": "so you could just leave that mess"
+  },
+  {
+
+    "begin": "00:48:55.76",
+    "end": "00:48:58.56",
+    "text": "and let someone else figure it out."
+  },
+  {
+
+    "begin": "00:48:58.56",
+    "end": "00:48:59.48",
+    "text": "PROFESSOR: Yeah."
+  },
+  {
+
+    "begin": "00:48:59.48",
+    "end": "00:49:01.30",
+    "text": "STUDENT: So just make sure you get the positive one."
+  },
+  {
+
+    "begin": "00:49:01.30",
+    "end": "00:49:02.55",
+    "text": "PROFESSOR: Exactly, exactly."
+  },
+  {
+
+    "begin": "00:49:02.55",
+    "end": "00:49:03.49",
+    "text": "Yeah, you wouldn't--"
+  },
+  {
+
+    "begin": "00:49:03.49",
+    "end": "00:49:03.93",
+    "text": "STUDENT: You have a little bit of work"
+  },
+  {
+
+    "begin": "00:49:03.93",
+    "end": "00:49:05.93",
+    "text": "to figure out which one's positive."
+  },
+  {
+
+    "begin": "00:49:05.93",
+    "end": "00:49:06.47",
+    "text": "PROFESSOR: Yeah, you wouldn't want"
+  },
+  {
+
+    "begin": "00:49:06.47",
+    "end": "00:49:07.64",
+    "text": "to give both answers, right?"
+  },
+  {
+
+    "begin": "00:49:07.64",
+    "end": "00:49:09.47",
+    "text": "Because if I gave you two answers for this--"
+  },
+  {
+
+    "begin": "00:49:09.47",
+    "end": "00:49:10.28",
+    "text": "STUDENT: That would be wrong."
+  },
+  {
+
+    "begin": "00:49:10.28",
+    "end": "00:49:11.66",
+    "text": "PROFESSOR: --that would be wrong,"
+  },
+  {
+
+    "begin": "00:49:11.66",
+    "end": "00:49:14.13",
+    "text": "because it didn't hit the ground twice."
+  },
+  {
+
+    "begin": "00:49:14.13",
+    "end": "00:49:17.31",
+    "text": "Unless I guess it bounced, but if it bounced,"
+  },
+  {
+
+    "begin": "00:49:17.31",
+    "end": "00:49:19.18",
+    "text": "we're dealing with a more complicated physics"
+  },
+  {
+
+    "begin": "00:49:19.18",
+    "end": "00:49:22.07",
+    "text": "problem, which hopefully we shouldn't be dealing with."
+  },
+  {
+
+    "begin": "00:49:22.07",
+    "end": "00:49:22.99",
+    "text": "STUDENT: [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:49:22.99",
+    "end": "00:49:25.47",
+    "text": "PROFESSOR: Yes, so if it-- we can assume in this class"
+  },
+  {
+
+    "begin": "00:49:25.47",
+    "end": "00:49:29.64",
+    "text": "if it hits the ground it becomes part of the ground, yes?"
+  },
+  {
+
+    "begin": "00:49:29.64",
+    "end": "00:49:30.32",
+    "text": "I hope."
+  },
+  {
+
+    "begin": "00:49:30.32",
+    "end": "00:49:34.61",
+    "text": "STUDENT: [INAUDIBLE] initial velocity, 66 meters per second"
+  },
+  {
+
+    "begin": "00:49:34.61",
+    "end": "00:49:38.34",
+    "text": "going up initially and it hits the ground,"
+  },
+  {
+
+    "begin": "00:49:38.34",
+    "end": "00:49:40.34",
+    "text": "it's just almost the same, just slightly deeper."
+  },
+  {
+
+    "begin": "00:49:40.34",
+    "end": "00:49:41.30",
+    "text": "PROFESSOR: Uh-huh, yep."
+  },
+  {
+
+    "begin": "00:49:41.30",
+    "end": "00:49:43.61",
+    "text": "So it was the whole parabola, yes?"
+  },
+  {
+
+    "begin": "00:49:43.61",
+    "end": "00:49:44.45",
+    "text": "STUDENT: Yeah."
+  },
+  {
+
+    "begin": "00:49:44.45",
+    "end": "00:49:48.34",
+    "text": "So 3 feet coming down [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:49:48.34",
+    "end": "00:49:50.01",
+    "text": "PROFESSOR: Yeah, that could've also just"
+  },
+  {
+
+    "begin": "00:49:50.01",
+    "end": "00:49:55.66",
+    "text": "been a rounding thing, because we rounded to 3.51."
+  },
+  {
+
+    "begin": "00:49:55.66",
+    "end": "00:49:56.70",
+    "text": "So yeah."
+  },
+  {
+
+    "begin": "00:49:56.70",
+    "end": "00:50:02.18",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:50:02.18",
+    "end": "00:50:05.07",
+    "text": "But you would expect it to be symmetrical."
+  },
+  {
+
+    "begin": "00:50:05.07",
+    "end": "00:50:06.61",
+    "text": "STUDENT: What goes up must come down."
+  },
+  {
+
+    "begin": "00:50:06.61",
+    "end": "00:50:07.78",
+    "text": "PROFESSOR: Mm-hm, yep."
+  },
+  {
+
+    "begin": "00:50:07.78",
+    "end": "00:50:09.14",
+    "text": "Exactly right."
+  },
+  {
+
+    "begin": "00:50:09.14",
+    "end": "00:50:16.01",
+    "text": "OK, so I don't have any more problems about this stuff,"
+  },
+  {
+
+    "begin": "00:50:16.01",
+    "end": "00:50:19.20",
+    "text": "but I do have other review things."
+  },
+  {
+
+    "begin": "00:50:19.20",
+    "end": "00:50:23.58",
+    "text": "Does anyone have any questions about indefinite integrals?"
+  },
+  {
+
+    "begin": "00:50:23.58",
+    "end": "00:50:24.08",
+    "text": "OK--"
+  },
+  {
+
+    "begin": "00:50:24.08",
+    "end": "00:50:25.58",
+    "text": "STUDENT: Remember like, I don't know"
+  },
+  {
+
+    "begin": "00:50:25.58",
+    "end": "00:50:28.18",
+    "text": "if you have something for implicit differentiation."
+  },
+  {
+
+    "begin": "00:50:28.18",
+    "end": "00:50:29.68",
+    "text": "PROFESSOR: Implicit differentiation."
+  },
+  {
+
+    "begin": "00:50:29.68",
+    "end": "00:50:32.55",
+    "text": "Yeah, probably."
+  },
+  {
+
+    "begin": "00:50:32.55",
+    "end": "00:50:33.42",
+    "text": "Doot, doot, doo."
+  },
+  {
+
+    "begin": "00:50:33.42",
+    "end": "00:50:36.16",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:50:36.16",
+    "end": "00:50:37.58",
+    "text": "Maybe."
+  },
+  {
+
+    "begin": "00:50:37.58",
+    "end": "00:50:39.08",
+    "text": "If not, we certainly will next week."
+  },
+  {
+
+    "begin": "00:50:39.08",
+    "end": "00:50:43.22",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:50:43.22",
+    "end": "00:50:44.51",
+    "text": "No, not quite."
+  },
+  {
+
+    "begin": "00:50:44.51",
+    "end": "00:50:47.89",
+    "text": "I don't have one in here, but I can do something else."
+  },
+  {
+
+    "begin": "00:50:47.89",
+    "end": "00:50:48.39",
+    "text": "Yes."
+  },
+  {
+
+    "begin": "00:50:48.39",
+    "end": "00:50:49.47",
+    "text": "STUDENT: I have a question about integrals."
+  },
+  {
+
+    "begin": "00:50:49.47",
+    "end": "00:50:50.14",
+    "text": "PROFESSOR: Sure."
+  },
+  {
+
+    "begin": "00:50:50.14",
+    "end": "00:50:51.99",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:50:51.99",
+    "end": "00:50:54.11",
+    "text": "STUDENT: What's the best way to think about getting"
+  },
+  {
+
+    "begin": "00:50:54.11",
+    "end": "00:50:55.32",
+    "text": "the antiderivative?"
+  },
+  {
+
+    "begin": "00:50:55.32",
+    "end": "00:50:57.74",
+    "text": "Because I'm having trouble seeing it."
+  },
+  {
+
+    "begin": "00:50:57.74",
+    "end": "00:51:00.31",
+    "text": "PROFESSOR: Seeing like how to get"
+  },
+  {
+
+    "begin": "00:51:00.31",
+    "end": "00:51:02.11",
+    "text": "the mathematical antiderivative, or how"
+  },
+  {
+
+    "begin": "00:51:02.11",
+    "end": "00:51:03.36",
+    "text": "to think about it graphically?"
+  },
+  {
+
+    "begin": "00:51:03.36",
+    "end": "00:51:04.86",
+    "text": "STUDENT: Yeah, the mathematical one."
+  },
+  {
+
+    "begin": "00:51:04.86",
+    "end": "00:51:07.26",
+    "text": "PROFESSOR: The numerical one."
+  },
+  {
+
+    "begin": "00:51:07.26",
+    "end": "00:51:11.12",
+    "text": "I think the best way to think about it"
+  },
+  {
+
+    "begin": "00:51:11.12",
+    "end": "00:51:15.18",
+    "text": "specifically what-- if I took the derivative of what"
+  },
+  {
+
+    "begin": "00:51:15.18",
+    "end": "00:51:16.82",
+    "text": "would give me this one?"
+  },
+  {
+
+    "begin": "00:51:16.82",
+    "end": "00:51:22.42",
+    "text": "So I would just do it, take a guess, and then test it."
+  },
+  {
+
+    "begin": "00:51:22.42",
+    "end": "00:51:23.50",
+    "text": "So that's what I would do."
+  },
+  {
+
+    "begin": "00:51:23.50",
+    "end": "00:51:26.32",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:51:26.32",
+    "end": "00:51:28.99",
+    "text": "Especially for the power ones, where"
+  },
+  {
+
+    "begin": "00:51:28.99",
+    "end": "00:51:34.22",
+    "text": "if you get-- if you want to end up with 1/6 x cubed,"
+  },
+  {
+
+    "begin": "00:51:34.22",
+    "end": "00:51:36.18",
+    "text": "what would you do?"
+  },
+  {
+
+    "begin": "00:51:36.18",
+    "end": "00:51:38.61",
+    "text": "You're going to guess that it's x to the fourth,"
+  },
+  {
+
+    "begin": "00:51:38.61",
+    "end": "00:51:40.95",
+    "text": "but then you want to end up with 1/6, right?"
+  },
+  {
+
+    "begin": "00:51:40.95",
+    "end": "00:51:44.01",
+    "text": "So you're going to say the derivative of this is 4x cubed,"
+  },
+  {
+
+    "begin": "00:51:44.01",
+    "end": "00:51:45.68",
+    "text": "and that's not what I want."
+  },
+  {
+
+    "begin": "00:51:45.68",
+    "end": "00:51:48.87",
+    "text": "I want this to be multiplied by what?"
+  },
+  {
+
+    "begin": "00:51:48.87",
+    "end": "00:51:50.19",
+    "text": "STUDENT: By 1/6."
+  },
+  {
+
+    "begin": "00:51:50.19",
+    "end": "00:51:51.19",
+    "text": "PROFESSOR: Say it again?"
+  },
+  {
+
+    "begin": "00:51:51.19",
+    "end": "00:51:52.64",
+    "text": "STUDENT: By 1/6."
+  },
+  {
+
+    "begin": "00:51:52.64",
+    "end": "00:51:56.84",
+    "text": "PROFESSOR: By 1/6 would give me 2/3 x"
+  },
+  {
+
+    "begin": "00:51:56.84",
+    "end": "00:52:00.54",
+    "text": "cubed, so we wanted to multiply this by what?"
+  },
+  {
+
+    "begin": "00:52:00.54",
+    "end": "00:52:02.36",
+    "text": "STUDENT: 1/18."
+  },
+  {
+
+    "begin": "00:52:02.36",
+    "end": "00:52:07.95",
+    "text": "PROFESSOR: This part."
+  },
+  {
+
+    "begin": "00:52:07.95",
+    "end": "00:52:09.76",
+    "text": "I think I heard it."
+  },
+  {
+
+    "begin": "00:52:09.76",
+    "end": "00:52:11.66",
+    "text": "1/24."
+  },
+  {
+
+    "begin": "00:52:11.66",
+    "end": "00:52:16.37",
+    "text": "And then we'll up with 1/6 x to the fourth."
+  },
+  {
+
+    "begin": "00:52:16.37",
+    "end": "00:52:18.41",
+    "text": "STUDENT: Isn't there a formula to figure this out"
+  },
+  {
+
+    "begin": "00:52:18.41",
+    "end": "00:52:22.84",
+    "text": "for functions that are in that form?"
+  },
+  {
+
+    "begin": "00:52:22.84",
+    "end": "00:52:24.30",
+    "text": "PROFESSOR: Yeah, exactly, there is."
+  },
+  {
+
+    "begin": "00:52:24.30",
+    "end": "00:52:27.82",
+    "text": "The x to the m--"
+  },
+  {
+
+    "begin": "00:52:27.82",
+    "end": "00:52:31.80",
+    "text": "STUDENT: Minus-- plus 1."
+  },
+  {
+
+    "begin": "00:52:31.80",
+    "end": "00:52:33.57",
+    "text": "PROFESSOR: Plus 1, over?"
+  },
+  {
+
+    "begin": "00:52:33.57",
+    "end": "00:52:36.34",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:52:36.34",
+    "end": "00:52:38.32",
+    "text": "STUDENT: m."
+  },
+  {
+
+    "begin": "00:52:38.32",
+    "end": "00:52:39.32",
+    "text": "STUDENT: OK."
+  },
+  {
+
+    "begin": "00:52:39.32",
+    "end": "00:52:41.02",
+    "text": "PROFESSOR: Right?"
+  },
+  {
+
+    "begin": "00:52:41.02",
+    "end": "00:52:42.64",
+    "text": "But if you have a coefficient in front,"
+  },
+  {
+
+    "begin": "00:52:42.64",
+    "end": "00:52:44.35",
+    "text": "you're going to need to account for that."
+  },
+  {
+
+    "begin": "00:52:44.35",
+    "end": "00:52:46.82",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:52:46.82",
+    "end": "00:52:48.20",
+    "text": "OK."
+  },
+  {
+
+    "begin": "00:52:48.20",
+    "end": "00:52:50.20",
+    "text": "STUDENT: Isn't that also m plus 1 on the bottom?"
+  },
+  {
+
+    "begin": "00:52:50.20",
+    "end": "00:52:50.74",
+    "text": "STUDENT: Yes."
+  },
+  {
+
+    "begin": "00:52:50.74",
+    "end": "00:52:52.47",
+    "text": "PROFESSOR: Yes."
+  },
+  {
+
+    "begin": "00:52:52.47",
+    "end": "00:52:54.93",
+    "text": "Yeah, because then you would have x to the fourth over 1/4,"
+  },
+  {
+
+    "begin": "00:52:54.93",
+    "end": "00:52:55.95",
+    "text": "yeah."
+  },
+  {
+
+    "begin": "00:52:55.95",
+    "end": "00:52:56.85",
+    "text": "Yeah, yeah."
+  },
+  {
+
+    "begin": "00:52:56.85",
+    "end": "00:52:58.97",
+    "text": "So you need to account for this coefficient though,"
+  },
+  {
+
+    "begin": "00:52:58.97",
+    "end": "00:53:03.36",
+    "text": "somehow, if it's not basic in this way."
+  },
+  {
+
+    "begin": "00:53:03.36",
+    "end": "00:53:05.36",
+    "text": "The same thing would happen for sine or cosine"
+  },
+  {
+
+    "begin": "00:53:05.36",
+    "end": "00:53:06.95",
+    "text": "or whatever else."
+  },
+  {
+
+    "begin": "00:53:06.95",
+    "end": "00:53:09.43",
+    "text": "So I would just test-- know the rules,"
+  },
+  {
+
+    "begin": "00:53:09.43",
+    "end": "00:53:14.95",
+    "text": "but then just test it as a way to do that."
+  },
+  {
+
+    "begin": "00:53:14.95",
+    "end": "00:53:16.94",
+    "text": "Do you guys want to do an optimization problem?"
+  },
+  {
+
+    "begin": "00:53:16.94",
+    "end": "00:53:17.82",
+    "text": "Would that be fun?"
+  },
+  {
+
+    "begin": "00:53:17.82",
+    "end": "00:53:18.40",
+    "text": "STUDENT: Sure."
+  },
+  {
+
+    "begin": "00:53:18.40",
+    "end": "00:53:20.38",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:53:20.38",
+    "end": "00:53:27.16",
+    "text": "All right, so we need to make a box"
+  },
+  {
+
+    "begin": "00:53:27.16",
+    "end": "00:53:38.66",
+    "text": "with a square base and rectangular sides with no top."
+  },
+  {
+
+    "begin": "00:53:38.66",
+    "end": "00:53:42.01",
+    "text": "And the sides are made out of a material that"
+  },
+  {
+
+    "begin": "00:53:42.01",
+    "end": "00:53:51.14",
+    "text": "costs $3 per square foot, and the bottom"
+  },
+  {
+
+    "begin": "00:53:51.14",
+    "end": "00:53:53.23",
+    "text": "costs $6 per square foot."
+  },
+  {
+
+    "begin": "00:53:53.23",
+    "end": "00:53:57.20",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:53:57.20",
+    "end": "00:54:08.51",
+    "text": "What's the largest volume I can make with-- I think it's 80."
+  },
+  {
+
+    "begin": "00:54:08.51",
+    "end": "00:54:09.59",
+    "text": "With $90."
+  },
+  {
+
+    "begin": "00:54:09.59",
+    "end": "00:54:11.61",
+    "text": "90?"
+  },
+  {
+
+    "begin": "00:54:11.61",
+    "end": "00:54:13.39",
+    "text": "That's hard to read."
+  },
+  {
+
+    "begin": "00:54:13.39",
+    "end": "00:54:14.05",
+    "text": "With $90."
+  },
+  {
+
+    "begin": "00:54:14.05",
+    "end": "00:54:16.62",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:54:16.62",
+    "end": "00:54:19.28",
+    "text": "Can't tell if it's 90, 80, or 980, so we'll"
+  },
+  {
+
+    "begin": "00:54:19.28",
+    "end": "00:54:22.57",
+    "text": "see how this goes."
+  },
+  {
+
+    "begin": "00:54:22.57",
+    "end": "00:54:25.11",
+    "text": "OK, so let's draw a figure."
+  },
+  {
+
+    "begin": "00:54:25.11",
+    "end": "00:54:26.07",
+    "text": "What will it look like?"
+  },
+  {
+
+    "begin": "00:54:26.07",
+    "end": "00:54:34.41",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:54:34.41",
+    "end": "00:54:37.11",
+    "text": "Right?"
+  },
+  {
+
+    "begin": "00:54:37.11",
+    "end": "00:54:42.30",
+    "text": "So this has a bottom but no top, and then there's"
+  },
+  {
+
+    "begin": "00:54:42.30",
+    "end": "00:54:45.07",
+    "text": "that guy back there."
+  },
+  {
+
+    "begin": "00:54:45.07",
+    "end": "00:54:51.59",
+    "text": "OK, so what dimensions would we use for this?"
+  },
+  {
+
+    "begin": "00:54:51.59",
+    "end": "00:54:55.05",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:54:55.05",
+    "end": "00:54:56.56",
+    "text": "What's the dimension here?"
+  },
+  {
+
+    "begin": "00:54:56.56",
+    "end": "00:54:58.32",
+    "text": "STUDENT: x."
+  },
+  {
+
+    "begin": "00:54:58.32",
+    "end": "00:54:58.95",
+    "text": "PROFESSOR: x."
+  },
+  {
+
+    "begin": "00:54:58.95",
+    "end": "00:55:01.14",
+    "text": "I'm use L for length."
+  },
+  {
+
+    "begin": "00:55:01.14",
+    "end": "00:55:02.30",
+    "text": "What's this one?"
+  },
+  {
+
+    "begin": "00:55:02.30",
+    "end": "00:55:03.01",
+    "text": "STUDENT: Width."
+  },
+  {
+
+    "begin": "00:55:03.01",
+    "end": "00:55:04.91",
+    "text": "PROFESSOR: Width, which equals what?"
+  },
+  {
+
+    "begin": "00:55:04.91",
+    "end": "00:55:05.41",
+    "text": "STUDENT: L."
+  },
+  {
+
+    "begin": "00:55:05.41",
+    "end": "00:55:06.78",
+    "text": "PROFESSOR: L, OK."
+  },
+  {
+
+    "begin": "00:55:06.78",
+    "end": "00:55:08.59",
+    "text": "And then what's this one?"
+  },
+  {
+
+    "begin": "00:55:08.59",
+    "end": "00:55:09.47",
+    "text": "STUDENT: H."
+  },
+  {
+
+    "begin": "00:55:09.47",
+    "end": "00:55:10.22",
+    "text": "PROFESSOR: H?"
+  },
+  {
+
+    "begin": "00:55:10.22",
+    "end": "00:55:13.36",
+    "text": "Yeah, I used H. OK, and then these ones up here"
+  },
+  {
+
+    "begin": "00:55:13.36",
+    "end": "00:55:14.95",
+    "text": "are the same as L, right?"
+  },
+  {
+
+    "begin": "00:55:14.95",
+    "end": "00:55:19.34",
+    "text": "And these ones are all H. Great."
+  },
+  {
+
+    "begin": "00:55:19.34",
+    "end": "00:55:22.64",
+    "text": "What are we looking for?"
+  },
+  {
+
+    "begin": "00:55:22.64",
+    "end": "00:55:23.99",
+    "text": "STUDENT: Volume."
+  },
+  {
+
+    "begin": "00:55:23.99",
+    "end": "00:55:25.89",
+    "text": "PROFESSOR: And we're looking for the?"
+  },
+  {
+
+    "begin": "00:55:25.89",
+    "end": "00:55:26.43",
+    "text": "STUDENT: Max."
+  },
+  {
+
+    "begin": "00:55:26.43",
+    "end": "00:55:28.47",
+    "text": "PROFESSOR: Max volume."
+  },
+  {
+
+    "begin": "00:55:28.47",
+    "end": "00:55:29.91",
+    "text": "So what's our equation for volume?"
+  },
+  {
+
+    "begin": "00:55:29.91",
+    "end": "00:55:34.31",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:55:34.31",
+    "end": "00:55:37.36",
+    "text": "STUDENT: Height times-- H times [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:55:37.36",
+    "end": "00:55:38.53",
+    "text": "PROFESSOR: So height times--"
+  },
+  {
+
+    "begin": "00:55:38.53",
+    "end": "00:55:40.32",
+    "text": "STUDENT: L and L."
+  },
+  {
+
+    "begin": "00:55:40.32",
+    "end": "00:55:42.70",
+    "text": "PROFESSOR: So H times L squared."
+  },
+  {
+
+    "begin": "00:55:42.70",
+    "end": "00:55:45.57",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:55:45.57",
+    "end": "00:55:46.44",
+    "text": "What else do we know?"
+  },
+  {
+
+    "begin": "00:55:46.44",
+    "end": "00:55:51.05",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:55:51.05",
+    "end": "00:55:52.66",
+    "text": "What else is in our problem?"
+  },
+  {
+
+    "begin": "00:55:52.66",
+    "end": "00:55:54.07",
+    "text": "STUDENT: Surface area."
+  },
+  {
+
+    "begin": "00:55:54.07",
+    "end": "00:55:55.49",
+    "text": "PROFESSOR: Yeah, the surface area."
+  },
+  {
+
+    "begin": "00:55:55.49",
+    "end": "00:55:58.51",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:55:58.51",
+    "end": "00:56:00.29",
+    "text": "So what's the bottom?"
+  },
+  {
+
+    "begin": "00:56:00.29",
+    "end": "00:56:04.67",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:56:04.67",
+    "end": "00:56:06.62",
+    "text": "STUDENT: L squared."
+  },
+  {
+
+    "begin": "00:56:06.62",
+    "end": "00:56:09.01",
+    "text": "PROFESSOR: OK, so we have L squared for the bottom."
+  },
+  {
+
+    "begin": "00:56:09.01",
+    "end": "00:56:10.45",
+    "text": "How many of those do we have?"
+  },
+  {
+
+    "begin": "00:56:10.45",
+    "end": "00:56:11.05",
+    "text": "STUDENT: Two."
+  },
+  {
+
+    "begin": "00:56:11.05",
+    "end": "00:56:13.22",
+    "text": "PROFESSOR: Do we have two?"
+  },
+  {
+
+    "begin": "00:56:13.22",
+    "end": "00:56:14.17",
+    "text": "STUDENT: Oh, sorry, no."
+  },
+  {
+
+    "begin": "00:56:14.17",
+    "end": "00:56:14.34",
+    "text": "Just one."
+  },
+  {
+
+    "begin": "00:56:14.34",
+    "end": "00:56:15.38",
+    "text": "PROFESSOR: Yeah, exactly."
+  },
+  {
+
+    "begin": "00:56:15.38",
+    "end": "00:56:16.99",
+    "text": "That's a trick, that was a trick."
+  },
+  {
+
+    "begin": "00:56:16.99",
+    "end": "00:56:18.09",
+    "text": "We only have one, right?"
+  },
+  {
+
+    "begin": "00:56:18.09",
+    "end": "00:56:20.32",
+    "text": "Because I said there's no top."
+  },
+  {
+
+    "begin": "00:56:20.32",
+    "end": "00:56:22.47",
+    "text": "And then what about the sides?"
+  },
+  {
+
+    "begin": "00:56:22.47",
+    "end": "00:56:24.76",
+    "text": "We have four of them."
+  },
+  {
+
+    "begin": "00:56:24.76",
+    "end": "00:56:28.12",
+    "text": "And what's their area?"
+  },
+  {
+
+    "begin": "00:56:28.12",
+    "end": "00:56:29.47",
+    "text": "STUDENT: Length times height."
+  },
+  {
+
+    "begin": "00:56:29.47",
+    "end": "00:56:30.76",
+    "text": "PROFESSOR: Length times height."
+  },
+  {
+
+    "begin": "00:56:30.76",
+    "end": "00:56:32.93",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:56:32.93",
+    "end": "00:56:39.53",
+    "text": "OK, so what do we do now?"
+  },
+  {
+
+    "begin": "00:56:39.53",
+    "end": "00:56:46.28",
+    "text": "STUDENT: L squared $6 [INAUDIBLE] $3 per square feet."
+  },
+  {
+
+    "begin": "00:56:46.28",
+    "end": "00:56:51.57",
+    "text": "PROFESSOR: OK, so this will give me cost is equal to what?"
+  },
+  {
+
+    "begin": "00:56:51.57",
+    "end": "00:56:54.53",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:56:54.53",
+    "end": "00:56:57.51",
+    "text": "6 times L squared, right?"
+  },
+  {
+
+    "begin": "00:56:57.51",
+    "end": "00:57:03.34",
+    "text": "Plus 3 times 4 times L times H?"
+  },
+  {
+
+    "begin": "00:57:03.34",
+    "end": "00:57:06.62",
+    "text": "Is that right?"
+  },
+  {
+
+    "begin": "00:57:06.62",
+    "end": "00:57:10.71",
+    "text": "OK, what do we do now?"
+  },
+  {
+
+    "begin": "00:57:10.71",
+    "end": "00:57:12.38",
+    "text": "STUDENT: We have two variables, so--"
+  },
+  {
+
+    "begin": "00:57:12.38",
+    "end": "00:57:14.30",
+    "text": "STUDENT: Sorry, can you explain the breakdown?"
+  },
+  {
+
+    "begin": "00:57:14.30",
+    "end": "00:57:15.78",
+    "text": "Can you break down the cost?"
+  },
+  {
+
+    "begin": "00:57:15.78",
+    "end": "00:57:17.61",
+    "text": "PROFESSOR: This thing?"
+  },
+  {
+
+    "begin": "00:57:17.61",
+    "end": "00:57:20.66",
+    "text": "The cost of the bottom is $6 per square foot"
+  },
+  {
+
+    "begin": "00:57:20.66",
+    "end": "00:57:23.36",
+    "text": "and so that's $6 per these kinds of square feet."
+  },
+  {
+
+    "begin": "00:57:23.36",
+    "end": "00:57:27.29",
+    "text": "And then this is $3 per each of those square feet."
+  },
+  {
+
+    "begin": "00:57:27.29",
+    "end": "00:57:27.96",
+    "text": "STUDENT: Thanks."
+  },
+  {
+
+    "begin": "00:57:27.96",
+    "end": "00:57:29.96",
+    "text": "PROFESSOR: Mm-hm."
+  },
+  {
+
+    "begin": "00:57:29.96",
+    "end": "00:57:31.60",
+    "text": "So how are we going to fix this?"
+  },
+  {
+
+    "begin": "00:57:31.60",
+    "end": "00:57:35.48",
+    "text": "STUDENT: The cost is $90, so [INAUDIBLE]"
+  },
+  {
+
+    "begin": "00:57:35.48",
+    "end": "00:57:37.91",
+    "text": "equal to 90 [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:57:37.91",
+    "end": "00:57:39.05",
+    "text": "PROFESSOR: OK, great."
+  },
+  {
+
+    "begin": "00:57:39.05",
+    "end": "00:57:41.14",
+    "text": "So which one do you want to do?"
+  },
+  {
+
+    "begin": "00:57:41.14",
+    "end": "00:57:44.34",
+    "text": "You want to get H in terms of L?"
+  },
+  {
+
+    "begin": "00:57:44.34",
+    "end": "00:57:45.21",
+    "text": "STUDENT: [INAUDIBLE]."
+  },
+  {
+
+    "begin": "00:57:45.21",
+    "end": "00:57:47.32",
+    "text": "PROFESSOR: OK, so how do we do that?"
+  },
+  {
+
+    "begin": "00:57:47.32",
+    "end": "00:57:50.21",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:57:50.21",
+    "end": "00:57:53.11",
+    "text": "STUDENT: Subtract 6 L squared from each side."
+  },
+  {
+
+    "begin": "00:57:53.11",
+    "end": "00:57:59.85",
+    "text": "PROFESSOR: OK, so 90 minus 6 L squared equals?"
+  },
+  {
+
+    "begin": "00:57:59.85",
+    "end": "00:58:02.70",
+    "text": "STUDENT: All divided by 12 equals LH."
+  },
+  {
+
+    "begin": "00:58:02.70",
+    "end": "00:58:08.26",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:58:08.26",
+    "end": "00:58:08.84",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:58:08.84",
+    "end": "00:58:10.31",
+    "text": "STUDENT: Divide both sides by LH."
+  },
+  {
+
+    "begin": "00:58:10.31",
+    "end": "00:58:16.68",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:58:16.68",
+    "end": "00:58:19.41",
+    "text": "PROFESSOR: OK."
+  },
+  {
+
+    "begin": "00:58:19.41",
+    "end": "00:58:24.22",
+    "text": "So I can simplify this to H equals"
+  },
+  {
+
+    "begin": "00:58:24.22",
+    "end": "00:58:33.24",
+    "text": "15 minus L squared over 2L."
+  },
+  {
+
+    "begin": "00:58:33.24",
+    "end": "00:58:35.62",
+    "text": "Let's see if that's right."
+  },
+  {
+
+    "begin": "00:58:35.62",
+    "end": "00:58:40.33",
+    "text": "Yeah, so I factored a 6 out of each."
+  },
+  {
+
+    "begin": "00:58:40.33",
+    "end": "00:58:43.97",
+    "text": "OK, so now we have H. We're running out of time,"
+  },
+  {
+
+    "begin": "00:58:43.97",
+    "end": "00:58:50.53",
+    "text": "but now we have H. So what's our new volume"
+  },
+  {
+
+    "begin": "00:58:50.53",
+    "end": "00:58:53.60",
+    "text": "if we have a way to define H?"
+  },
+  {
+
+    "begin": "00:58:53.60",
+    "end": "00:59:00.09",
+    "text": "STUDENT: 15 minus L squared over 2L times L squared."
+  },
+  {
+
+    "begin": "00:59:00.09",
+    "end": "00:59:01.97",
+    "text": "PROFESSOR: Times L squared."
+  },
+  {
+
+    "begin": "00:59:01.97",
+    "end": "00:59:04.34",
+    "text": "Great."
+  },
+  {
+
+    "begin": "00:59:04.34",
+    "end": "00:59:07.35",
+    "text": "What would this look like in an easier way to read?"
+  },
+  {
+
+    "begin": "00:59:07.35",
+    "end": "00:59:10.37",
+    "text": "      "
+  },
+  {
+
+    "begin": "00:59:10.37",
+    "end": "00:59:14.95",
+    "text": "STUDENT: 15L minus L cubed?"
+  },
+  {
+
+    "begin": "00:59:14.95",
+    "end": "00:59:18.92",
+    "text": "PROFESSOR: Yeah, or we can divide one of these."
+  },
+  {
+
+    "begin": "00:59:18.92",
+    "end": "00:59:21.93",
+    "text": "STUDENT: Right, sorry."
+  },
+  {
+
+    "begin": "00:59:21.93",
+    "end": "00:59:24.34",
+    "text": "PROFESSOR: Oh, 15L minus L cubed, yep."
+  },
+  {
+
+    "begin": "00:59:24.34",
+    "end": "00:59:25.03",
+    "text": "Over 2."
+  },
+  {
+
+    "begin": "00:59:25.03",
+    "end": "00:59:25.70",
+    "text": "STUDENT: Over 2."
+  },
+  {
+
+    "begin": "00:59:25.70",
+    "end": "00:59:26.45",
+    "text": "PROFESSOR: Yeah."
+  },
+  {
+
+    "begin": "00:59:26.45",
+    "end": "00:59:27.64",
+    "text": "Great."
+  },
+  {
+
+    "begin": "00:59:27.64",
+    "end": "00:59:31.82",
+    "text": "So our goal is to maximize the volume, yes?"
+  },
+  {
+
+    "begin": "00:59:31.82",
+    "end": "00:59:35.70",
+    "text": "So we're out of time for today, but what is the next step"
+  },
+  {
+
+    "begin": "00:59:35.70",
+    "end": "00:59:37.97",
+    "text": "that we would do?"
+  },
+  {
+
+    "begin": "00:59:37.97",
+    "end": "00:59:41.32",
+    "text": "And we can finish it next time."
+  },
+  {
+
+    "begin": "00:59:41.32",
+    "end": "00:59:45.05",
+    "text": "We'll take V prime and set it to?"
+  },
+  {
+
+    "begin": "00:59:45.05",
+    "end": "00:59:45.55",
+    "text": "STUDENT: 0."
+  },
+  {
+
+    "begin": "00:59:45.55",
+    "end": "00:59:46.28",
+    "text": "PROFESSOR: 0."
+  },
+  {
+
+    "begin": "00:59:46.28",
+    "end": "00:59:49.91",
+    "text": "And then we'll do a number line and test our critical point"
+  },
+  {
+
+    "begin": "00:59:49.91",
+    "end": "00:59:52.28",
+    "text": "to make sure it's a maximum."
+  },
+  {
+
+    "begin": "00:59:52.28",
+    "end": "00:59:54.28",
+    "text": "And then we'll figure out what we ended up with,"
+  },
+  {
+
+    "begin": "00:59:54.28",
+    "end": "00:59:57.16",
+    "text": "whether it was the length or the height or the width,"
+  },
+  {
+
+    "begin": "00:59:57.16",
+    "end": "01:00:02.45",
+    "text": "and whatever, and figure out the maximum volume of our box."
+  },
+  {
+
+    "begin": "01:00:02.45",
+    "end": "01:00:03.59",
+    "text": "OK?"
+  },
+  {
+
+    "begin": "01:00:03.59",
+    "end": "01:00:05.78",
+    "text": "Questions?"
+  },
+  {
+
+    "begin": "01:00:05.78",
+    "end": "01:00:09.44",
+    "text": "OK, so email me with things that you might want to do next week."
+  },
+  {
+
+    "begin": "01:00:09.44",
+    "end": "01:00:10.86",
+    "text": "We'll do implicit differentiation."
+  },
+  {
+
+    "begin": "01:00:10.86",
+    "end": "01:00:13.66",
+    "text": "We'll do a family of curves."
+  },
+  {
+
+    "begin": "01:00:13.66",
+    "end": "01:00:17.39",
+    "text": "We'll try to do basically as much as possible to prepare you"
+  },
+  {
+
+    "begin": "01:00:17.39",
+    "end": "01:00:17.97",
+    "text": "for the final."
+  },
+  {
+
+    "begin": "01:00:17.97",
+    "end": "01:00:21.84",
+    "text": "But if you have suggestions or needs, just let me know."
+  },
+  {
+
+    "begin": "01:00:21.84",
+    "end": "01:00:23.87",
+    "text": "All right, have a good week."
+  }
+]
