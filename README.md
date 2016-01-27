@@ -1,7 +1,9 @@
 transcript-demo
 ==================
 
-Demo of the DCE player transcript viewer UI ideas
+Demo of the DCE player transcript viewer UI ideas.
+
+[You can check it out here.](http://harvard-dce.github.io/transcript-demo/)
 
 Installation
 ------------
