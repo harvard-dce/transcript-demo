@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jimkang/transcript-demo.git"
+    "url": "git@github.com:harvard-dce/transcript-demo.git"
   },
   "keywords": [],
   "author": "Jim Kang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jimkang/transcript-demo/issues"
+    "url": "https://github.com/harvard-dce/transcript-demo/issues"
   },
-  "homepage": "https://github.com/jimkang/transcript-demo",
+  "homepage": "https://github.com/harvard-dce/transcript-demo",
   "devDependencies": {
-    "tape": "^3.0.3"
+    "tape": "^3.0.3",
+    "uglify-js": "^2.6.1"
   },
   "dependencies": {
     "accessor": "^1.0.1",

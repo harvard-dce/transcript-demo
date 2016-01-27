@@ -1,3 +1,6 @@
+BROWSERIFY = browserify
+UGLIFY = node_modules/.bin/uglifyjs
+
 run:
 	wzrd app.js:index.js -- \
 		-d
